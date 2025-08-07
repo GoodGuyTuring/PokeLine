@@ -1,0 +1,5002 @@
+{
+  "masterball": {
+    "name": "Master Ball",
+    "id": "masterball",
+    "num": 1
+  },
+  "ultraball": {
+    "name": "Ultra Ball",
+    "id": "ultraball",
+    "num": 2
+  },
+  "greatball": {
+    "name": "Great Ball",
+    "id": "greatball",
+    "num": 3
+  },
+  "pokeball": {
+    "name": "Poke Ball",
+    "id": "pokeball",
+    "num": 4
+  },
+  "safariball": {
+    "name": "Safari Ball",
+    "id": "safariball",
+    "num": 5
+  },
+  "netball": {
+    "name": "Net Ball",
+    "id": "netball",
+    "num": 6
+  },
+  "diveball": {
+    "name": "Dive Ball",
+    "id": "diveball",
+    "num": 7
+  },
+  "nestball": {
+    "name": "Nest Ball",
+    "id": "nestball",
+    "num": 8
+  },
+  "repeatball": {
+    "name": "Repeat Ball",
+    "id": "repeatball",
+    "num": 9
+  },
+  "timerball": {
+    "name": "Timer Ball",
+    "id": "timerball",
+    "num": 10
+  },
+  "luxuryball": {
+    "name": "Luxury Ball",
+    "id": "luxuryball",
+    "num": 11
+  },
+  "premierball": {
+    "name": "Premier Ball",
+    "id": "premierball",
+    "num": 12
+  },
+  "duskball": {
+    "name": "Dusk Ball",
+    "id": "duskball",
+    "num": 13
+  },
+  "healball": {
+    "name": "Heal Ball",
+    "id": "healball",
+    "num": 14
+  },
+  "quickball": {
+    "name": "Quick Ball",
+    "id": "quickball",
+    "num": 15
+  },
+  "cherishball": {
+    "name": "Cherish Ball",
+    "id": "cherishball",
+    "num": 16
+  },
+  "potion": {
+    "name": "Potion",
+    "id": "potion",
+    "num": 17
+  },
+  "antidote": {
+    "name": "Antidote",
+    "id": "antidote",
+    "num": 18
+  },
+  "burnheal": {
+    "name": "Burn Heal",
+    "id": "burnheal",
+    "num": 19
+  },
+  "iceheal": {
+    "name": "Ice Heal",
+    "id": "iceheal",
+    "num": 20
+  },
+  "awakening": {
+    "name": "Awakening",
+    "id": "awakening",
+    "num": 21
+  },
+  "paralyzeheal": {
+    "name": "Paralyze Heal",
+    "id": "paralyzeheal",
+    "num": 22
+  },
+  "fullrestore": {
+    "name": "Full Restore",
+    "id": "fullrestore",
+    "num": 23
+  },
+  "maxpotion": {
+    "name": "Max Potion",
+    "id": "maxpotion",
+    "num": 24
+  },
+  "hyperpotion": {
+    "name": "Hyper Potion",
+    "id": "hyperpotion",
+    "num": 25
+  },
+  "superpotion": {
+    "name": "Super Potion",
+    "id": "superpotion",
+    "num": 26
+  },
+  "fullheal": {
+    "name": "Full Heal",
+    "id": "fullheal",
+    "num": 27
+  },
+  "revive": {
+    "name": "Revive",
+    "id": "revive",
+    "num": 28
+  },
+  "maxrevive": {
+    "name": "Max Revive",
+    "id": "maxrevive",
+    "num": 29
+  },
+  "freshwater": {
+    "name": "Fresh Water",
+    "id": "freshwater",
+    "num": 30
+  },
+  "sodapop": {
+    "name": "Soda Pop",
+    "id": "sodapop",
+    "num": 31
+  },
+  "lemonade": {
+    "name": "Lemonade",
+    "id": "lemonade",
+    "num": 32
+  },
+  "moomoomilk": {
+    "name": "Moomoo Milk",
+    "id": "moomoomilk",
+    "num": 33
+  },
+  "energypowder": {
+    "name": "Energy Powder",
+    "id": "energypowder",
+    "num": 34
+  },
+  "energyroot": {
+    "name": "Energy Root",
+    "id": "energyroot",
+    "num": 35
+  },
+  "healpowder": {
+    "name": "Heal Powder",
+    "id": "healpowder",
+    "num": 36
+  },
+  "revivalherb": {
+    "name": "Revival Herb",
+    "id": "revivalherb",
+    "num": 37
+  },
+  "ether": {
+    "name": "Ether",
+    "id": "ether",
+    "num": 38
+  },
+  "maxether": {
+    "name": "Max Ether",
+    "id": "maxether",
+    "num": 39
+  },
+  "elixir": {
+    "name": "Elixir",
+    "id": "elixir",
+    "num": 40
+  },
+  "maxelixir": {
+    "name": "Max Elixir",
+    "id": "maxelixir",
+    "num": 41
+  },
+  "lavacookie": {
+    "name": "Lava Cookie",
+    "id": "lavacookie",
+    "num": 42
+  },
+  "berryjuice": {
+    "name": "Berry Juice",
+    "id": "berryjuice",
+    "num": 43
+  },
+  "sacredash": {
+    "name": "Sacred Ash",
+    "id": "sacredash",
+    "num": 44
+  },
+  "hpup": {
+    "name": "Hp Up",
+    "id": "hpup",
+    "num": 45
+  },
+  "protein": {
+    "name": "Protein",
+    "id": "protein",
+    "num": 46
+  },
+  "iron": {
+    "name": "Iron",
+    "id": "iron",
+    "num": 47
+  },
+  "carbos": {
+    "name": "Carbos",
+    "id": "carbos",
+    "num": 48
+  },
+  "calcium": {
+    "name": "Calcium",
+    "id": "calcium",
+    "num": 49
+  },
+  "rarecandy": {
+    "name": "Rare Candy",
+    "id": "rarecandy",
+    "num": 50
+  },
+  "ppup": {
+    "name": "Pp Up",
+    "id": "ppup",
+    "num": 51
+  },
+  "zinc": {
+    "name": "Zinc",
+    "id": "zinc",
+    "num": 52
+  },
+  "ppmax": {
+    "name": "Pp Max",
+    "id": "ppmax",
+    "num": 53
+  },
+  "oldgateau": {
+    "name": "Old Gateau",
+    "id": "oldgateau",
+    "num": 54
+  },
+  "guardspec": {
+    "name": "Guard Spec",
+    "id": "guardspec",
+    "num": 55
+  },
+  "direhit": {
+    "name": "Dire Hit",
+    "id": "direhit",
+    "num": 56
+  },
+  "xattack": {
+    "name": "X Attack",
+    "id": "xattack",
+    "num": 57
+  },
+  "xdefense": {
+    "name": "X Defense",
+    "id": "xdefense",
+    "num": 58
+  },
+  "xspeed": {
+    "name": "X Speed",
+    "id": "xspeed",
+    "num": 59
+  },
+  "xaccuracy": {
+    "name": "X Accuracy",
+    "id": "xaccuracy",
+    "num": 60
+  },
+  "xspatk": {
+    "name": "X Sp Atk",
+    "id": "xspatk",
+    "num": 61
+  },
+  "xspdef": {
+    "name": "X Sp Def",
+    "id": "xspdef",
+    "num": 62
+  },
+  "pokedoll": {
+    "name": "Poke Doll",
+    "id": "pokedoll",
+    "num": 63
+  },
+  "fluffytail": {
+    "name": "Fluffy Tail",
+    "id": "fluffytail",
+    "num": 64
+  },
+  "blueflute": {
+    "name": "Blue Flute",
+    "id": "blueflute",
+    "num": 65
+  },
+  "yellowflute": {
+    "name": "Yellow Flute",
+    "id": "yellowflute",
+    "num": 66
+  },
+  "redflute": {
+    "name": "Red Flute",
+    "id": "redflute",
+    "num": 67
+  },
+  "blackflute": {
+    "name": "Black Flute",
+    "id": "blackflute",
+    "num": 68
+  },
+  "whiteflute": {
+    "name": "White Flute",
+    "id": "whiteflute",
+    "num": 69
+  },
+  "shoalsalt": {
+    "name": "Shoal Salt",
+    "id": "shoalsalt",
+    "num": 70
+  },
+  "shoalshell": {
+    "name": "Shoal Shell",
+    "id": "shoalshell",
+    "num": 71
+  },
+  "redshard": {
+    "name": "Red Shard",
+    "id": "redshard",
+    "num": 72
+  },
+  "blueshard": {
+    "name": "Blue Shard",
+    "id": "blueshard",
+    "num": 73
+  },
+  "yellowshard": {
+    "name": "Yellow Shard",
+    "id": "yellowshard",
+    "num": 74
+  },
+  "greenshard": {
+    "name": "Green Shard",
+    "id": "greenshard",
+    "num": 75
+  },
+  "superrepel": {
+    "name": "Super Repel",
+    "id": "superrepel",
+    "num": 76
+  },
+  "maxrepel": {
+    "name": "Max Repel",
+    "id": "maxrepel",
+    "num": 77
+  },
+  "escaperope": {
+    "name": "Escape Rope",
+    "id": "escaperope",
+    "num": 78
+  },
+  "repel": {
+    "name": "Repel",
+    "id": "repel",
+    "num": 79
+  },
+  "sunstone": {
+    "name": "Sun Stone",
+    "id": "sunstone",
+    "num": 80
+  },
+  "moonstone": {
+    "name": "Moon Stone",
+    "id": "moonstone",
+    "num": 81
+  },
+  "firestone": {
+    "name": "Fire Stone",
+    "id": "firestone",
+    "num": 82
+  },
+  "thunderstone": {
+    "name": "Thunder Stone",
+    "id": "thunderstone",
+    "num": 83
+  },
+  "waterstone": {
+    "name": "Water Stone",
+    "id": "waterstone",
+    "num": 84
+  },
+  "leafstone": {
+    "name": "Leaf Stone",
+    "id": "leafstone",
+    "num": 85
+  },
+  "tinymushroom": {
+    "name": "Tiny Mushroom",
+    "id": "tinymushroom",
+    "num": 86
+  },
+  "bigmushroom": {
+    "name": "Big Mushroom",
+    "id": "bigmushroom",
+    "num": 87
+  },
+  "pearl": {
+    "name": "Pearl",
+    "id": "pearl",
+    "num": 88
+  },
+  "bigpearl": {
+    "name": "Big Pearl",
+    "id": "bigpearl",
+    "num": 89
+  },
+  "stardust": {
+    "name": "Stardust",
+    "id": "stardust",
+    "num": 90
+  },
+  "starpiece": {
+    "name": "Star Piece",
+    "id": "starpiece",
+    "num": 91
+  },
+  "nugget": {
+    "name": "Nugget",
+    "id": "nugget",
+    "num": 92
+  },
+  "heartscale": {
+    "name": "Heart Scale",
+    "id": "heartscale",
+    "num": 93
+  },
+  "honey": {
+    "name": "Honey",
+    "id": "honey",
+    "num": 94
+  },
+  "growthmulch": {
+    "name": "Growth Mulch",
+    "id": "growthmulch",
+    "num": 95
+  },
+  "dampmulch": {
+    "name": "Damp Mulch",
+    "id": "dampmulch",
+    "num": 96
+  },
+  "stablemulch": {
+    "name": "Stable Mulch",
+    "id": "stablemulch",
+    "num": 97
+  },
+  "gooeymulch": {
+    "name": "Gooey Mulch",
+    "id": "gooeymulch",
+    "num": 98
+  },
+  "rootfossil": {
+    "name": "Root Fossil",
+    "id": "rootfossil",
+    "num": 99
+  },
+  "clawfossil": {
+    "name": "Claw Fossil",
+    "id": "clawfossil",
+    "num": 100
+  },
+  "helixfossil": {
+    "name": "Helix Fossil",
+    "id": "helixfossil",
+    "num": 101
+  },
+  "domefossil": {
+    "name": "Dome Fossil",
+    "id": "domefossil",
+    "num": 102
+  },
+  "oldamber": {
+    "name": "Old Amber",
+    "id": "oldamber",
+    "num": 103
+  },
+  "armorfossil": {
+    "name": "Armor Fossil",
+    "id": "armorfossil",
+    "num": 104
+  },
+  "skullfossil": {
+    "name": "Skull Fossil",
+    "id": "skullfossil",
+    "num": 105
+  },
+  "rarebone": {
+    "name": "Rare Bone",
+    "id": "rarebone",
+    "num": 106
+  },
+  "shinystone": {
+    "name": "Shiny Stone",
+    "id": "shinystone",
+    "num": 107
+  },
+  "duskstone": {
+    "name": "Dusk Stone",
+    "id": "duskstone",
+    "num": 108
+  },
+  "dawnstone": {
+    "name": "Dawn Stone",
+    "id": "dawnstone",
+    "num": 109
+  },
+  "ovalstone": {
+    "name": "Oval Stone",
+    "id": "ovalstone",
+    "num": 110
+  },
+  "oddkeystone": {
+    "name": "Odd Keystone",
+    "id": "oddkeystone",
+    "num": 111
+  },
+  "adamantorb": {
+    "name": "Adamant Orb",
+    "id": "adamantorb",
+    "num": 112
+  },
+  "lustrousorb": {
+    "name": "Lustrous Orb",
+    "id": "lustrousorb",
+    "num": 113
+  },
+  "grassmail": {
+    "name": "Grass Mail",
+    "id": "grassmail",
+    "num": 114
+  },
+  "flamemail": {
+    "name": "Flame Mail",
+    "id": "flamemail",
+    "num": 115
+  },
+  "bubblemail": {
+    "name": "Bubble Mail",
+    "id": "bubblemail",
+    "num": 116
+  },
+  "bloommail": {
+    "name": "Bloom Mail",
+    "id": "bloommail",
+    "num": 117
+  },
+  "tunnelmail": {
+    "name": "Tunnel Mail",
+    "id": "tunnelmail",
+    "num": 118
+  },
+  "steelmail": {
+    "name": "Steel Mail",
+    "id": "steelmail",
+    "num": 119
+  },
+  "heartmail": {
+    "name": "Heart Mail",
+    "id": "heartmail",
+    "num": 120
+  },
+  "snowmail": {
+    "name": "Snow Mail",
+    "id": "snowmail",
+    "num": 121
+  },
+  "spacemail": {
+    "name": "Space Mail",
+    "id": "spacemail",
+    "num": 122
+  },
+  "airmail": {
+    "name": "Air Mail",
+    "id": "airmail",
+    "num": 123
+  },
+  "mosaicmail": {
+    "name": "Mosaic Mail",
+    "id": "mosaicmail",
+    "num": 124
+  },
+  "brickmail": {
+    "name": "Brick Mail",
+    "id": "brickmail",
+    "num": 125
+  },
+  "cheriberry": {
+    "name": "Cheri Berry",
+    "id": "cheriberry",
+    "num": 126
+  },
+  "chestoberry": {
+    "name": "Chesto Berry",
+    "id": "chestoberry",
+    "num": 127
+  },
+  "pechaberry": {
+    "name": "Pecha Berry",
+    "id": "pechaberry",
+    "num": 128
+  },
+  "rawstberry": {
+    "name": "Rawst Berry",
+    "id": "rawstberry",
+    "num": 129
+  },
+  "aspearberry": {
+    "name": "Aspear Berry",
+    "id": "aspearberry",
+    "num": 130
+  },
+  "leppaberry": {
+    "name": "Leppa Berry",
+    "id": "leppaberry",
+    "num": 131
+  },
+  "oranberry": {
+    "name": "Oran Berry",
+    "id": "oranberry",
+    "num": 132
+  },
+  "persimberry": {
+    "name": "Persim Berry",
+    "id": "persimberry",
+    "num": 133
+  },
+  "lumberry": {
+    "name": "Lum Berry",
+    "id": "lumberry",
+    "num": 134
+  },
+  "sitrusberry": {
+    "name": "Sitrus Berry",
+    "id": "sitrusberry",
+    "num": 135
+  },
+  "figyberry": {
+    "name": "Figy Berry",
+    "id": "figyberry",
+    "num": 136
+  },
+  "wikiberry": {
+    "name": "Wiki Berry",
+    "id": "wikiberry",
+    "num": 137
+  },
+  "magoberry": {
+    "name": "Mago Berry",
+    "id": "magoberry",
+    "num": 138
+  },
+  "aguavberry": {
+    "name": "Aguav Berry",
+    "id": "aguavberry",
+    "num": 139
+  },
+  "iapapaberry": {
+    "name": "Iapapa Berry",
+    "id": "iapapaberry",
+    "num": 140
+  },
+  "razzberry": {
+    "name": "Razz Berry",
+    "id": "razzberry",
+    "num": 141
+  },
+  "blukberry": {
+    "name": "Bluk Berry",
+    "id": "blukberry",
+    "num": 142
+  },
+  "nanabberry": {
+    "name": "Nanab Berry",
+    "id": "nanabberry",
+    "num": 143
+  },
+  "wepearberry": {
+    "name": "Wepear Berry",
+    "id": "wepearberry",
+    "num": 144
+  },
+  "pinapberry": {
+    "name": "Pinap Berry",
+    "id": "pinapberry",
+    "num": 145
+  },
+  "pomegberry": {
+    "name": "Pomeg Berry",
+    "id": "pomegberry",
+    "num": 146
+  },
+  "kelpsyberry": {
+    "name": "Kelpsy Berry",
+    "id": "kelpsyberry",
+    "num": 147
+  },
+  "qualotberry": {
+    "name": "Qualot Berry",
+    "id": "qualotberry",
+    "num": 148
+  },
+  "hondewberry": {
+    "name": "Hondew Berry",
+    "id": "hondewberry",
+    "num": 149
+  },
+  "grepaberry": {
+    "name": "Grepa Berry",
+    "id": "grepaberry",
+    "num": 150
+  },
+  "tamatoberry": {
+    "name": "Tamato Berry",
+    "id": "tamatoberry",
+    "num": 151
+  },
+  "cornnberry": {
+    "name": "Cornn Berry",
+    "id": "cornnberry",
+    "num": 152
+  },
+  "magostberry": {
+    "name": "Magost Berry",
+    "id": "magostberry",
+    "num": 153
+  },
+  "rabutaberry": {
+    "name": "Rabuta Berry",
+    "id": "rabutaberry",
+    "num": 154
+  },
+  "nomelberry": {
+    "name": "Nomel Berry",
+    "id": "nomelberry",
+    "num": 155
+  },
+  "spelonberry": {
+    "name": "Spelon Berry",
+    "id": "spelonberry",
+    "num": 156
+  },
+  "pamtreberry": {
+    "name": "Pamtre Berry",
+    "id": "pamtreberry",
+    "num": 157
+  },
+  "watmelberry": {
+    "name": "Watmel Berry",
+    "id": "watmelberry",
+    "num": 158
+  },
+  "durinberry": {
+    "name": "Durin Berry",
+    "id": "durinberry",
+    "num": 159
+  },
+  "belueberry": {
+    "name": "Belue Berry",
+    "id": "belueberry",
+    "num": 160
+  },
+  "occaberry": {
+    "name": "Occa Berry",
+    "id": "occaberry",
+    "num": 161
+  },
+  "passhoberry": {
+    "name": "Passho Berry",
+    "id": "passhoberry",
+    "num": 162
+  },
+  "wacanberry": {
+    "name": "Wacan Berry",
+    "id": "wacanberry",
+    "num": 163
+  },
+  "rindoberry": {
+    "name": "Rindo Berry",
+    "id": "rindoberry",
+    "num": 164
+  },
+  "yacheberry": {
+    "name": "Yache Berry",
+    "id": "yacheberry",
+    "num": 165
+  },
+  "chopleberry": {
+    "name": "Chople Berry",
+    "id": "chopleberry",
+    "num": 166
+  },
+  "kebiaberry": {
+    "name": "Kebia Berry",
+    "id": "kebiaberry",
+    "num": 167
+  },
+  "shucaberry": {
+    "name": "Shuca Berry",
+    "id": "shucaberry",
+    "num": 168
+  },
+  "cobaberry": {
+    "name": "Coba Berry",
+    "id": "cobaberry",
+    "num": 169
+  },
+  "payapaberry": {
+    "name": "Payapa Berry",
+    "id": "payapaberry",
+    "num": 170
+  },
+  "tangaberry": {
+    "name": "Tanga Berry",
+    "id": "tangaberry",
+    "num": 171
+  },
+  "chartiberry": {
+    "name": "Charti Berry",
+    "id": "chartiberry",
+    "num": 172
+  },
+  "kasibberry": {
+    "name": "Kasib Berry",
+    "id": "kasibberry",
+    "num": 173
+  },
+  "habanberry": {
+    "name": "Haban Berry",
+    "id": "habanberry",
+    "num": 174
+  },
+  "colburberry": {
+    "name": "Colbur Berry",
+    "id": "colburberry",
+    "num": 175
+  },
+  "babiriberry": {
+    "name": "Babiri Berry",
+    "id": "babiriberry",
+    "num": 176
+  },
+  "chilanberry": {
+    "name": "Chilan Berry",
+    "id": "chilanberry",
+    "num": 177
+  },
+  "liechiberry": {
+    "name": "Liechi Berry",
+    "id": "liechiberry",
+    "num": 178
+  },
+  "ganlonberry": {
+    "name": "Ganlon Berry",
+    "id": "ganlonberry",
+    "num": 179
+  },
+  "salacberry": {
+    "name": "Salac Berry",
+    "id": "salacberry",
+    "num": 180
+  },
+  "petayaberry": {
+    "name": "Petaya Berry",
+    "id": "petayaberry",
+    "num": 181
+  },
+  "apicotberry": {
+    "name": "Apicot Berry",
+    "id": "apicotberry",
+    "num": 182
+  },
+  "lansatberry": {
+    "name": "Lansat Berry",
+    "id": "lansatberry",
+    "num": 183
+  },
+  "starfberry": {
+    "name": "Starf Berry",
+    "id": "starfberry",
+    "num": 184
+  },
+  "enigmaberry": {
+    "name": "Enigma Berry",
+    "id": "enigmaberry",
+    "num": 185
+  },
+  "micleberry": {
+    "name": "Micle Berry",
+    "id": "micleberry",
+    "num": 186
+  },
+  "custapberry": {
+    "name": "Custap Berry",
+    "id": "custapberry",
+    "num": 187
+  },
+  "jabocaberry": {
+    "name": "Jaboca Berry",
+    "id": "jabocaberry",
+    "num": 188
+  },
+  "rowapberry": {
+    "name": "Rowap Berry",
+    "id": "rowapberry",
+    "num": 189
+  },
+  "brightpowder": {
+    "name": "Bright Powder",
+    "id": "brightpowder",
+    "num": 190
+  },
+  "whiteherb": {
+    "name": "White Herb",
+    "id": "whiteherb",
+    "num": 191
+  },
+  "machobrace": {
+    "name": "Macho Brace",
+    "id": "machobrace",
+    "num": 192
+  },
+  "expshare": {
+    "name": "Exp Share",
+    "id": "expshare",
+    "num": 193
+  },
+  "quickclaw": {
+    "name": "Quick Claw",
+    "id": "quickclaw",
+    "num": 194
+  },
+  "soothebell": {
+    "name": "Soothe Bell",
+    "id": "soothebell",
+    "num": 195
+  },
+  "mentalherb": {
+    "name": "Mental Herb",
+    "id": "mentalherb",
+    "num": 196
+  },
+  "choiceband": {
+    "name": "Choice Band",
+    "id": "choiceband",
+    "num": 197
+  },
+  "kingsrock": {
+    "name": "Kings Rock",
+    "id": "kingsrock",
+    "num": 198
+  },
+  "silverpowder": {
+    "name": "Silver Powder",
+    "id": "silverpowder",
+    "num": 199
+  },
+  "amuletcoin": {
+    "name": "Amulet Coin",
+    "id": "amuletcoin",
+    "num": 200
+  },
+  "cleansetag": {
+    "name": "Cleanse Tag",
+    "id": "cleansetag",
+    "num": 201
+  },
+  "souldew": {
+    "name": "Soul Dew",
+    "id": "souldew",
+    "num": 202
+  },
+  "deepseatooth": {
+    "name": "Deep Sea Tooth",
+    "id": "deepseatooth",
+    "num": 203
+  },
+  "deepseascale": {
+    "name": "Deep Sea Scale",
+    "id": "deepseascale",
+    "num": 204
+  },
+  "smokeball": {
+    "name": "Smoke Ball",
+    "id": "smokeball",
+    "num": 205
+  },
+  "everstone": {
+    "name": "Everstone",
+    "id": "everstone",
+    "num": 206
+  },
+  "focusband": {
+    "name": "Focus Band",
+    "id": "focusband",
+    "num": 207
+  },
+  "luckyegg": {
+    "name": "Lucky Egg",
+    "id": "luckyegg",
+    "num": 208
+  },
+  "scopelens": {
+    "name": "Scope Lens",
+    "id": "scopelens",
+    "num": 209
+  },
+  "metalcoat": {
+    "name": "Metal Coat",
+    "id": "metalcoat",
+    "num": 210
+  },
+  "leftovers": {
+    "name": "Leftovers",
+    "id": "leftovers",
+    "num": 211
+  },
+  "dragonscale": {
+    "name": "Dragon Scale",
+    "id": "dragonscale",
+    "num": 212
+  },
+  "lightball": {
+    "name": "Light Ball",
+    "id": "lightball",
+    "num": 213
+  },
+  "softsand": {
+    "name": "Soft Sand",
+    "id": "softsand",
+    "num": 214
+  },
+  "hardstone": {
+    "name": "Hard Stone",
+    "id": "hardstone",
+    "num": 215
+  },
+  "miracleseed": {
+    "name": "Miracle Seed",
+    "id": "miracleseed",
+    "num": 216
+  },
+  "blackglasses": {
+    "name": "Black Glasses",
+    "id": "blackglasses",
+    "num": 217
+  },
+  "blackbelt": {
+    "name": "Black Belt",
+    "id": "blackbelt",
+    "num": 218
+  },
+  "magnet": {
+    "name": "Magnet",
+    "id": "magnet",
+    "num": 219
+  },
+  "mysticwater": {
+    "name": "Mystic Water",
+    "id": "mysticwater",
+    "num": 220
+  },
+  "sharpbeak": {
+    "name": "Sharp Beak",
+    "id": "sharpbeak",
+    "num": 221
+  },
+  "poisonbarb": {
+    "name": "Poison Barb",
+    "id": "poisonbarb",
+    "num": 222
+  },
+  "nevermeltice": {
+    "name": "Never Melt Ice",
+    "id": "nevermeltice",
+    "num": 223
+  },
+  "spelltag": {
+    "name": "Spell Tag",
+    "id": "spelltag",
+    "num": 224
+  },
+  "twistedspoon": {
+    "name": "Twisted Spoon",
+    "id": "twistedspoon",
+    "num": 225
+  },
+  "charcoal": {
+    "name": "Charcoal",
+    "id": "charcoal",
+    "num": 226
+  },
+  "dragonfang": {
+    "name": "Dragon Fang",
+    "id": "dragonfang",
+    "num": 227
+  },
+  "silkscarf": {
+    "name": "Silk Scarf",
+    "id": "silkscarf",
+    "num": 228
+  },
+  "upgrade": {
+    "name": "Up Grade",
+    "id": "upgrade",
+    "num": 229
+  },
+  "shellbell": {
+    "name": "Shell Bell",
+    "id": "shellbell",
+    "num": 230
+  },
+  "seaincense": {
+    "name": "Sea Incense",
+    "id": "seaincense",
+    "num": 231
+  },
+  "laxincense": {
+    "name": "Lax Incense",
+    "id": "laxincense",
+    "num": 232
+  },
+  "luckypunch": {
+    "name": "Lucky Punch",
+    "id": "luckypunch",
+    "num": 233
+  },
+  "metalpowder": {
+    "name": "Metal Powder",
+    "id": "metalpowder",
+    "num": 234
+  },
+  "thickclub": {
+    "name": "Thick Club",
+    "id": "thickclub",
+    "num": 235
+  },
+  "stick": {
+    "name": "Stick",
+    "id": "stick",
+    "num": 236
+  },
+  "redscarf": {
+    "name": "Red Scarf",
+    "id": "redscarf",
+    "num": 237
+  },
+  "bluescarf": {
+    "name": "Blue Scarf",
+    "id": "bluescarf",
+    "num": 238
+  },
+  "pinkscarf": {
+    "name": "Pink Scarf",
+    "id": "pinkscarf",
+    "num": 239
+  },
+  "greenscarf": {
+    "name": "Green Scarf",
+    "id": "greenscarf",
+    "num": 240
+  },
+  "yellowscarf": {
+    "name": "Yellow Scarf",
+    "id": "yellowscarf",
+    "num": 241
+  },
+  "widelens": {
+    "name": "Wide Lens",
+    "id": "widelens",
+    "num": 242
+  },
+  "muscleband": {
+    "name": "Muscle Band",
+    "id": "muscleband",
+    "num": 243
+  },
+  "wiseglasses": {
+    "name": "Wise Glasses",
+    "id": "wiseglasses",
+    "num": 244
+  },
+  "expertbelt": {
+    "name": "Expert Belt",
+    "id": "expertbelt",
+    "num": 245
+  },
+  "lightclay": {
+    "name": "Light Clay",
+    "id": "lightclay",
+    "num": 246
+  },
+  "lifeorb": {
+    "name": "Life Orb",
+    "id": "lifeorb",
+    "num": 247
+  },
+  "powerherb": {
+    "name": "Power Herb",
+    "id": "powerherb",
+    "num": 248
+  },
+  "toxicorb": {
+    "name": "Toxic Orb",
+    "id": "toxicorb",
+    "num": 249
+  },
+  "flameorb": {
+    "name": "Flame Orb",
+    "id": "flameorb",
+    "num": 250
+  },
+  "quickpowder": {
+    "name": "Quick Powder",
+    "id": "quickpowder",
+    "num": 251
+  },
+  "focussash": {
+    "name": "Focus Sash",
+    "id": "focussash",
+    "num": 252
+  },
+  "zoomlens": {
+    "name": "Zoom Lens",
+    "id": "zoomlens",
+    "num": 253
+  },
+  "metronome": {
+    "name": "Metronome",
+    "id": "metronome",
+    "num": 254
+  },
+  "ironball": {
+    "name": "Iron Ball",
+    "id": "ironball",
+    "num": 255
+  },
+  "laggingtail": {
+    "name": "Lagging Tail",
+    "id": "laggingtail",
+    "num": 256
+  },
+  "destinyknot": {
+    "name": "Destiny Knot",
+    "id": "destinyknot",
+    "num": 257
+  },
+  "blacksludge": {
+    "name": "Black Sludge",
+    "id": "blacksludge",
+    "num": 258
+  },
+  "icyrock": {
+    "name": "Icy Rock",
+    "id": "icyrock",
+    "num": 259
+  },
+  "smoothrock": {
+    "name": "Smooth Rock",
+    "id": "smoothrock",
+    "num": 260
+  },
+  "heatrock": {
+    "name": "Heat Rock",
+    "id": "heatrock",
+    "num": 261
+  },
+  "damprock": {
+    "name": "Damp Rock",
+    "id": "damprock",
+    "num": 262
+  },
+  "gripclaw": {
+    "name": "Grip Claw",
+    "id": "gripclaw",
+    "num": 263
+  },
+  "choicescarf": {
+    "name": "Choice Scarf",
+    "id": "choicescarf",
+    "num": 264
+  },
+  "stickybarb": {
+    "name": "Sticky Barb",
+    "id": "stickybarb",
+    "num": 265
+  },
+  "powerbracer": {
+    "name": "Power Bracer",
+    "id": "powerbracer",
+    "num": 266
+  },
+  "powerbelt": {
+    "name": "Power Belt",
+    "id": "powerbelt",
+    "num": 267
+  },
+  "powerlens": {
+    "name": "Power Lens",
+    "id": "powerlens",
+    "num": 268
+  },
+  "powerband": {
+    "name": "Power Band",
+    "id": "powerband",
+    "num": 269
+  },
+  "poweranklet": {
+    "name": "Power Anklet",
+    "id": "poweranklet",
+    "num": 270
+  },
+  "powerweight": {
+    "name": "Power Weight",
+    "id": "powerweight",
+    "num": 271
+  },
+  "shedshell": {
+    "name": "Shed Shell",
+    "id": "shedshell",
+    "num": 272
+  },
+  "bigroot": {
+    "name": "Big Root",
+    "id": "bigroot",
+    "num": 273
+  },
+  "choicespecs": {
+    "name": "Choice Specs",
+    "id": "choicespecs",
+    "num": 274
+  },
+  "flameplate": {
+    "name": "Flame Plate",
+    "id": "flameplate",
+    "num": 275
+  },
+  "splashplate": {
+    "name": "Splash Plate",
+    "id": "splashplate",
+    "num": 276
+  },
+  "zapplate": {
+    "name": "Zap Plate",
+    "id": "zapplate",
+    "num": 277
+  },
+  "meadowplate": {
+    "name": "Meadow Plate",
+    "id": "meadowplate",
+    "num": 278
+  },
+  "icicleplate": {
+    "name": "Icicle Plate",
+    "id": "icicleplate",
+    "num": 279
+  },
+  "fistplate": {
+    "name": "Fist Plate",
+    "id": "fistplate",
+    "num": 280
+  },
+  "toxicplate": {
+    "name": "Toxic Plate",
+    "id": "toxicplate",
+    "num": 281
+  },
+  "earthplate": {
+    "name": "Earth Plate",
+    "id": "earthplate",
+    "num": 282
+  },
+  "skyplate": {
+    "name": "Sky Plate",
+    "id": "skyplate",
+    "num": 283
+  },
+  "mindplate": {
+    "name": "Mind Plate",
+    "id": "mindplate",
+    "num": 284
+  },
+  "insectplate": {
+    "name": "Insect Plate",
+    "id": "insectplate",
+    "num": 285
+  },
+  "stoneplate": {
+    "name": "Stone Plate",
+    "id": "stoneplate",
+    "num": 286
+  },
+  "spookyplate": {
+    "name": "Spooky Plate",
+    "id": "spookyplate",
+    "num": 287
+  },
+  "dracoplate": {
+    "name": "Draco Plate",
+    "id": "dracoplate",
+    "num": 288
+  },
+  "dreadplate": {
+    "name": "Dread Plate",
+    "id": "dreadplate",
+    "num": 289
+  },
+  "ironplate": {
+    "name": "Iron Plate",
+    "id": "ironplate",
+    "num": 290
+  },
+  "oddincense": {
+    "name": "Odd Incense",
+    "id": "oddincense",
+    "num": 291
+  },
+  "rockincense": {
+    "name": "Rock Incense",
+    "id": "rockincense",
+    "num": 292
+  },
+  "fullincense": {
+    "name": "Full Incense",
+    "id": "fullincense",
+    "num": 293
+  },
+  "waveincense": {
+    "name": "Wave Incense",
+    "id": "waveincense",
+    "num": 294
+  },
+  "roseincense": {
+    "name": "Rose Incense",
+    "id": "roseincense",
+    "num": 295
+  },
+  "luckincense": {
+    "name": "Luck Incense",
+    "id": "luckincense",
+    "num": 296
+  },
+  "pureincense": {
+    "name": "Pure Incense",
+    "id": "pureincense",
+    "num": 297
+  },
+  "protector": {
+    "name": "Protector",
+    "id": "protector",
+    "num": 298
+  },
+  "electirizer": {
+    "name": "Electirizer",
+    "id": "electirizer",
+    "num": 299
+  },
+  "magmarizer": {
+    "name": "Magmarizer",
+    "id": "magmarizer",
+    "num": 300
+  },
+  "dubiousdisc": {
+    "name": "Dubious Disc",
+    "id": "dubiousdisc",
+    "num": 301
+  },
+  "reapercloth": {
+    "name": "Reaper Cloth",
+    "id": "reapercloth",
+    "num": 302
+  },
+  "razorclaw": {
+    "name": "Razor Claw",
+    "id": "razorclaw",
+    "num": 303
+  },
+  "razorfang": {
+    "name": "Razor Fang",
+    "id": "razorfang",
+    "num": 304
+  },
+  "tm01": {
+    "name": "Tm01",
+    "id": "tm01",
+    "num": 305
+  },
+  "tm02": {
+    "name": "Tm02",
+    "id": "tm02",
+    "num": 306
+  },
+  "tm03": {
+    "name": "Tm03",
+    "id": "tm03",
+    "num": 307
+  },
+  "tm04": {
+    "name": "Tm04",
+    "id": "tm04",
+    "num": 308
+  },
+  "tm05": {
+    "name": "Tm05",
+    "id": "tm05",
+    "num": 309
+  },
+  "tm06": {
+    "name": "Tm06",
+    "id": "tm06",
+    "num": 310
+  },
+  "tm07": {
+    "name": "Tm07",
+    "id": "tm07",
+    "num": 311
+  },
+  "tm08": {
+    "name": "Tm08",
+    "id": "tm08",
+    "num": 312
+  },
+  "tm09": {
+    "name": "Tm09",
+    "id": "tm09",
+    "num": 313
+  },
+  "tm10": {
+    "name": "Tm10",
+    "id": "tm10",
+    "num": 314
+  },
+  "tm11": {
+    "name": "Tm11",
+    "id": "tm11",
+    "num": 315
+  },
+  "tm12": {
+    "name": "Tm12",
+    "id": "tm12",
+    "num": 316
+  },
+  "tm13": {
+    "name": "Tm13",
+    "id": "tm13",
+    "num": 317
+  },
+  "tm14": {
+    "name": "Tm14",
+    "id": "tm14",
+    "num": 318
+  },
+  "tm15": {
+    "name": "Tm15",
+    "id": "tm15",
+    "num": 319
+  },
+  "tm16": {
+    "name": "Tm16",
+    "id": "tm16",
+    "num": 320
+  },
+  "tm17": {
+    "name": "Tm17",
+    "id": "tm17",
+    "num": 321
+  },
+  "tm18": {
+    "name": "Tm18",
+    "id": "tm18",
+    "num": 322
+  },
+  "tm19": {
+    "name": "Tm19",
+    "id": "tm19",
+    "num": 323
+  },
+  "tm20": {
+    "name": "Tm20",
+    "id": "tm20",
+    "num": 324
+  },
+  "tm21": {
+    "name": "Tm21",
+    "id": "tm21",
+    "num": 325
+  },
+  "tm22": {
+    "name": "Tm22",
+    "id": "tm22",
+    "num": 326
+  },
+  "tm23": {
+    "name": "Tm23",
+    "id": "tm23",
+    "num": 327
+  },
+  "tm24": {
+    "name": "Tm24",
+    "id": "tm24",
+    "num": 328
+  },
+  "tm25": {
+    "name": "Tm25",
+    "id": "tm25",
+    "num": 329
+  },
+  "tm26": {
+    "name": "Tm26",
+    "id": "tm26",
+    "num": 330
+  },
+  "tm27": {
+    "name": "Tm27",
+    "id": "tm27",
+    "num": 331
+  },
+  "tm28": {
+    "name": "Tm28",
+    "id": "tm28",
+    "num": 332
+  },
+  "tm29": {
+    "name": "Tm29",
+    "id": "tm29",
+    "num": 333
+  },
+  "tm30": {
+    "name": "Tm30",
+    "id": "tm30",
+    "num": 334
+  },
+  "tm31": {
+    "name": "Tm31",
+    "id": "tm31",
+    "num": 335
+  },
+  "tm32": {
+    "name": "Tm32",
+    "id": "tm32",
+    "num": 336
+  },
+  "tm33": {
+    "name": "Tm33",
+    "id": "tm33",
+    "num": 337
+  },
+  "tm34": {
+    "name": "Tm34",
+    "id": "tm34",
+    "num": 338
+  },
+  "tm35": {
+    "name": "Tm35",
+    "id": "tm35",
+    "num": 339
+  },
+  "tm36": {
+    "name": "Tm36",
+    "id": "tm36",
+    "num": 340
+  },
+  "tm37": {
+    "name": "Tm37",
+    "id": "tm37",
+    "num": 341
+  },
+  "tm38": {
+    "name": "Tm38",
+    "id": "tm38",
+    "num": 342
+  },
+  "tm39": {
+    "name": "Tm39",
+    "id": "tm39",
+    "num": 343
+  },
+  "tm40": {
+    "name": "Tm40",
+    "id": "tm40",
+    "num": 344
+  },
+  "tm41": {
+    "name": "Tm41",
+    "id": "tm41",
+    "num": 345
+  },
+  "tm42": {
+    "name": "Tm42",
+    "id": "tm42",
+    "num": 346
+  },
+  "tm43": {
+    "name": "Tm43",
+    "id": "tm43",
+    "num": 347
+  },
+  "tm44": {
+    "name": "Tm44",
+    "id": "tm44",
+    "num": 348
+  },
+  "tm45": {
+    "name": "Tm45",
+    "id": "tm45",
+    "num": 349
+  },
+  "tm46": {
+    "name": "Tm46",
+    "id": "tm46",
+    "num": 350
+  },
+  "tm47": {
+    "name": "Tm47",
+    "id": "tm47",
+    "num": 351
+  },
+  "tm48": {
+    "name": "Tm48",
+    "id": "tm48",
+    "num": 352
+  },
+  "tm49": {
+    "name": "Tm49",
+    "id": "tm49",
+    "num": 353
+  },
+  "tm50": {
+    "name": "Tm50",
+    "id": "tm50",
+    "num": 354
+  },
+  "tm51": {
+    "name": "Tm51",
+    "id": "tm51",
+    "num": 355
+  },
+  "tm52": {
+    "name": "Tm52",
+    "id": "tm52",
+    "num": 356
+  },
+  "tm53": {
+    "name": "Tm53",
+    "id": "tm53",
+    "num": 357
+  },
+  "tm54": {
+    "name": "Tm54",
+    "id": "tm54",
+    "num": 358
+  },
+  "tm55": {
+    "name": "Tm55",
+    "id": "tm55",
+    "num": 359
+  },
+  "tm56": {
+    "name": "Tm56",
+    "id": "tm56",
+    "num": 360
+  },
+  "tm57": {
+    "name": "Tm57",
+    "id": "tm57",
+    "num": 361
+  },
+  "tm58": {
+    "name": "Tm58",
+    "id": "tm58",
+    "num": 362
+  },
+  "tm59": {
+    "name": "Tm59",
+    "id": "tm59",
+    "num": 363
+  },
+  "tm60": {
+    "name": "Tm60",
+    "id": "tm60",
+    "num": 364
+  },
+  "tm61": {
+    "name": "Tm61",
+    "id": "tm61",
+    "num": 365
+  },
+  "tm62": {
+    "name": "Tm62",
+    "id": "tm62",
+    "num": 366
+  },
+  "tm63": {
+    "name": "Tm63",
+    "id": "tm63",
+    "num": 367
+  },
+  "tm64": {
+    "name": "Tm64",
+    "id": "tm64",
+    "num": 368
+  },
+  "tm65": {
+    "name": "Tm65",
+    "id": "tm65",
+    "num": 369
+  },
+  "tm66": {
+    "name": "Tm66",
+    "id": "tm66",
+    "num": 370
+  },
+  "tm67": {
+    "name": "Tm67",
+    "id": "tm67",
+    "num": 371
+  },
+  "tm68": {
+    "name": "Tm68",
+    "id": "tm68",
+    "num": 372
+  },
+  "tm69": {
+    "name": "Tm69",
+    "id": "tm69",
+    "num": 373
+  },
+  "tm70": {
+    "name": "Tm70",
+    "id": "tm70",
+    "num": 374
+  },
+  "tm71": {
+    "name": "Tm71",
+    "id": "tm71",
+    "num": 375
+  },
+  "tm72": {
+    "name": "Tm72",
+    "id": "tm72",
+    "num": 376
+  },
+  "tm73": {
+    "name": "Tm73",
+    "id": "tm73",
+    "num": 377
+  },
+  "tm74": {
+    "name": "Tm74",
+    "id": "tm74",
+    "num": 378
+  },
+  "tm75": {
+    "name": "Tm75",
+    "id": "tm75",
+    "num": 379
+  },
+  "tm76": {
+    "name": "Tm76",
+    "id": "tm76",
+    "num": 380
+  },
+  "tm77": {
+    "name": "Tm77",
+    "id": "tm77",
+    "num": 381
+  },
+  "tm78": {
+    "name": "Tm78",
+    "id": "tm78",
+    "num": 382
+  },
+  "tm79": {
+    "name": "Tm79",
+    "id": "tm79",
+    "num": 383
+  },
+  "tm80": {
+    "name": "Tm80",
+    "id": "tm80",
+    "num": 384
+  },
+  "tm81": {
+    "name": "Tm81",
+    "id": "tm81",
+    "num": 385
+  },
+  "tm82": {
+    "name": "Tm82",
+    "id": "tm82",
+    "num": 386
+  },
+  "tm83": {
+    "name": "Tm83",
+    "id": "tm83",
+    "num": 387
+  },
+  "tm84": {
+    "name": "Tm84",
+    "id": "tm84",
+    "num": 388
+  },
+  "tm85": {
+    "name": "Tm85",
+    "id": "tm85",
+    "num": 389
+  },
+  "tm86": {
+    "name": "Tm86",
+    "id": "tm86",
+    "num": 390
+  },
+  "tm87": {
+    "name": "Tm87",
+    "id": "tm87",
+    "num": 391
+  },
+  "tm88": {
+    "name": "Tm88",
+    "id": "tm88",
+    "num": 392
+  },
+  "tm89": {
+    "name": "Tm89",
+    "id": "tm89",
+    "num": 393
+  },
+  "tm90": {
+    "name": "Tm90",
+    "id": "tm90",
+    "num": 394
+  },
+  "tm91": {
+    "name": "Tm91",
+    "id": "tm91",
+    "num": 395
+  },
+  "tm92": {
+    "name": "Tm92",
+    "id": "tm92",
+    "num": 396
+  },
+  "hm01": {
+    "name": "Hm01",
+    "id": "hm01",
+    "num": 397
+  },
+  "hm02": {
+    "name": "Hm02",
+    "id": "hm02",
+    "num": 398
+  },
+  "hm03": {
+    "name": "Hm03",
+    "id": "hm03",
+    "num": 399
+  },
+  "hm04": {
+    "name": "Hm04",
+    "id": "hm04",
+    "num": 400
+  },
+  "hm05": {
+    "name": "Hm05",
+    "id": "hm05",
+    "num": 401
+  },
+  "hm06": {
+    "name": "Hm06",
+    "id": "hm06",
+    "num": 402
+  },
+  "hm07": {
+    "name": "Hm07",
+    "id": "hm07",
+    "num": 403
+  },
+  "hm08": {
+    "name": "Hm08",
+    "id": "hm08",
+    "num": 404
+  },
+  "explorerkit": {
+    "name": "Explorer Kit",
+    "id": "explorerkit",
+    "num": 405
+  },
+  "lootsack": {
+    "name": "Loot Sack",
+    "id": "lootsack",
+    "num": 406
+  },
+  "rulebook": {
+    "name": "Rule Book",
+    "id": "rulebook",
+    "num": 407
+  },
+  "pokeradar": {
+    "name": "Poke Radar",
+    "id": "pokeradar",
+    "num": 408
+  },
+  "pointcard": {
+    "name": "Point Card",
+    "id": "pointcard",
+    "num": 409
+  },
+  "journal": {
+    "name": "Journal",
+    "id": "journal",
+    "num": 410
+  },
+  "sealcase": {
+    "name": "Seal Case",
+    "id": "sealcase",
+    "num": 411
+  },
+  "fashioncase": {
+    "name": "Fashion Case",
+    "id": "fashioncase",
+    "num": 412
+  },
+  "sealbag": {
+    "name": "Seal Bag",
+    "id": "sealbag",
+    "num": 413
+  },
+  "palpad": {
+    "name": "Pal Pad",
+    "id": "palpad",
+    "num": 414
+  },
+  "workskey": {
+    "name": "Works Key",
+    "id": "workskey",
+    "num": 415
+  },
+  "oldcharm": {
+    "name": "Old Charm",
+    "id": "oldcharm",
+    "num": 416
+  },
+  "galactickey": {
+    "name": "Galactic Key",
+    "id": "galactickey",
+    "num": 417
+  },
+  "redchain": {
+    "name": "Red Chain",
+    "id": "redchain",
+    "num": 418
+  },
+  "townmap": {
+    "name": "Town Map",
+    "id": "townmap",
+    "num": 419
+  },
+  "vsseeker": {
+    "name": "Vs Seeker",
+    "id": "vsseeker",
+    "num": 420
+  },
+  "coincase": {
+    "name": "Coin Case",
+    "id": "coincase",
+    "num": 421
+  },
+  "oldrod": {
+    "name": "Old Rod",
+    "id": "oldrod",
+    "num": 422
+  },
+  "goodrod": {
+    "name": "Good Rod",
+    "id": "goodrod",
+    "num": 423
+  },
+  "superrod": {
+    "name": "Super Rod",
+    "id": "superrod",
+    "num": 424
+  },
+  "sprayduck": {
+    "name": "Sprayduck",
+    "id": "sprayduck",
+    "num": 425
+  },
+  "poffincase": {
+    "name": "Poffin Case",
+    "id": "poffincase",
+    "num": 426
+  },
+  "bicycle": {
+    "name": "Bicycle",
+    "id": "bicycle",
+    "num": 427
+  },
+  "suitekey": {
+    "name": "Suite Key",
+    "id": "suitekey",
+    "num": 428
+  },
+  "oaksletter": {
+    "name": "Oaks Letter",
+    "id": "oaksletter",
+    "num": 429
+  },
+  "lunarwing": {
+    "name": "Lunar Wing",
+    "id": "lunarwing",
+    "num": 430
+  },
+  "membercard": {
+    "name": "Member Card",
+    "id": "membercard",
+    "num": 431
+  },
+  "azureflute": {
+    "name": "Azure Flute",
+    "id": "azureflute",
+    "num": 432
+  },
+  "ssticket": {
+    "name": "Ss Ticket",
+    "id": "ssticket",
+    "num": 433
+  },
+  "contestpass": {
+    "name": "Contest Pass",
+    "id": "contestpass",
+    "num": 434
+  },
+  "magmastone": {
+    "name": "Magma Stone",
+    "id": "magmastone",
+    "num": 435
+  },
+  "parcel": {
+    "name": "Parcel",
+    "id": "parcel",
+    "num": 436
+  },
+  "coupon1": {
+    "name": "Coupon 1",
+    "id": "coupon1",
+    "num": 437
+  },
+  "coupon2": {
+    "name": "Coupon 2",
+    "id": "coupon2",
+    "num": 438
+  },
+  "coupon3": {
+    "name": "Coupon 3",
+    "id": "coupon3",
+    "num": 439
+  },
+  "storagekey": {
+    "name": "Storage Key",
+    "id": "storagekey",
+    "num": 440
+  },
+  "secretpotion": {
+    "name": "Secret Potion",
+    "id": "secretpotion",
+    "num": 441
+  },
+  "griseousorb": {
+    "name": "Griseous Orb",
+    "id": "griseousorb",
+    "num": 442
+  },
+  "vsrecorder": {
+    "name": "Vs Recorder",
+    "id": "vsrecorder",
+    "num": 443
+  },
+  "gracidea": {
+    "name": "Gracidea",
+    "id": "gracidea",
+    "num": 444
+  },
+  "secretkey": {
+    "name": "Secret Key",
+    "id": "secretkey",
+    "num": 445
+  },
+  "apricornbox": {
+    "name": "Apricorn Box",
+    "id": "apricornbox",
+    "num": 446
+  },
+  "berrypots": {
+    "name": "Berry Pots",
+    "id": "berrypots",
+    "num": 447
+  },
+  "squirtbottle": {
+    "name": "Squirt Bottle",
+    "id": "squirtbottle",
+    "num": 448
+  },
+  "lureball": {
+    "name": "Lure Ball",
+    "id": "lureball",
+    "num": 449
+  },
+  "levelball": {
+    "name": "Level Ball",
+    "id": "levelball",
+    "num": 450
+  },
+  "moonball": {
+    "name": "Moon Ball",
+    "id": "moonball",
+    "num": 451
+  },
+  "heavyball": {
+    "name": "Heavy Ball",
+    "id": "heavyball",
+    "num": 452
+  },
+  "fastball": {
+    "name": "Fast Ball",
+    "id": "fastball",
+    "num": 453
+  },
+  "friendball": {
+    "name": "Friend Ball",
+    "id": "friendball",
+    "num": 454
+  },
+  "loveball": {
+    "name": "Love Ball",
+    "id": "loveball",
+    "num": 455
+  },
+  "parkball": {
+    "name": "Park Ball",
+    "id": "parkball",
+    "num": 456
+  },
+  "sportball": {
+    "name": "Sport Ball",
+    "id": "sportball",
+    "num": 457
+  },
+  "redapricorn": {
+    "name": "Red Apricorn",
+    "id": "redapricorn",
+    "num": 458
+  },
+  "blueapricorn": {
+    "name": "Blue Apricorn",
+    "id": "blueapricorn",
+    "num": 459
+  },
+  "yellowapricorn": {
+    "name": "Yellow Apricorn",
+    "id": "yellowapricorn",
+    "num": 460
+  },
+  "greenapricorn": {
+    "name": "Green Apricorn",
+    "id": "greenapricorn",
+    "num": 461
+  },
+  "pinkapricorn": {
+    "name": "Pink Apricorn",
+    "id": "pinkapricorn",
+    "num": 462
+  },
+  "whiteapricorn": {
+    "name": "White Apricorn",
+    "id": "whiteapricorn",
+    "num": 463
+  },
+  "blackapricorn": {
+    "name": "Black Apricorn",
+    "id": "blackapricorn",
+    "num": 464
+  },
+  "dowsingmachine": {
+    "name": "Dowsing Machine",
+    "id": "dowsingmachine",
+    "num": 465
+  },
+  "ragecandybar": {
+    "name": "Rage Candy Bar",
+    "id": "ragecandybar",
+    "num": 466
+  },
+  "redorb": {
+    "name": "Red Orb",
+    "id": "redorb",
+    "num": 467
+  },
+  "blueorb": {
+    "name": "Blue Orb",
+    "id": "blueorb",
+    "num": 468
+  },
+  "jadeorb": {
+    "name": "Jade Orb",
+    "id": "jadeorb",
+    "num": 469
+  },
+  "enigmastone": {
+    "name": "Enigma Stone",
+    "id": "enigmastone",
+    "num": 470
+  },
+  "unownreport": {
+    "name": "Unown Report",
+    "id": "unownreport",
+    "num": 471
+  },
+  "bluecard": {
+    "name": "Blue Card",
+    "id": "bluecard",
+    "num": 472
+  },
+  "slowpoketail": {
+    "name": "Slowpoke Tail",
+    "id": "slowpoketail",
+    "num": 473
+  },
+  "clearbell": {
+    "name": "Clear Bell",
+    "id": "clearbell",
+    "num": 474
+  },
+  "cardkey": {
+    "name": "Card Key",
+    "id": "cardkey",
+    "num": 475
+  },
+  "basementkey": {
+    "name": "Basement Key",
+    "id": "basementkey",
+    "num": 476
+  },
+  "redscale": {
+    "name": "Red Scale",
+    "id": "redscale",
+    "num": 477
+  },
+  "lostitem": {
+    "name": "Lost Item",
+    "id": "lostitem",
+    "num": 478
+  },
+  "pass": {
+    "name": "Pass",
+    "id": "pass",
+    "num": 479
+  },
+  "machinepart": {
+    "name": "Machine Part",
+    "id": "machinepart",
+    "num": 480
+  },
+  "silverwing": {
+    "name": "Silver Wing",
+    "id": "silverwing",
+    "num": 481
+  },
+  "rainbowwing": {
+    "name": "Rainbow Wing",
+    "id": "rainbowwing",
+    "num": 482
+  },
+  "mysteryegg": {
+    "name": "Mystery Egg",
+    "id": "mysteryegg",
+    "num": 483
+  },
+  "gbsounds": {
+    "name": "Gb Sounds",
+    "id": "gbsounds",
+    "num": 484
+  },
+  "tidalbell": {
+    "name": "Tidal Bell",
+    "id": "tidalbell",
+    "num": 485
+  },
+  "datacard01": {
+    "name": "Data Card 01",
+    "id": "datacard01",
+    "num": 486
+  },
+  "datacard02": {
+    "name": "Data Card 02",
+    "id": "datacard02",
+    "num": 487
+  },
+  "datacard03": {
+    "name": "Data Card 03",
+    "id": "datacard03",
+    "num": 488
+  },
+  "datacard04": {
+    "name": "Data Card 04",
+    "id": "datacard04",
+    "num": 489
+  },
+  "datacard05": {
+    "name": "Data Card 05",
+    "id": "datacard05",
+    "num": 490
+  },
+  "datacard06": {
+    "name": "Data Card 06",
+    "id": "datacard06",
+    "num": 491
+  },
+  "datacard07": {
+    "name": "Data Card 07",
+    "id": "datacard07",
+    "num": 492
+  },
+  "datacard08": {
+    "name": "Data Card 08",
+    "id": "datacard08",
+    "num": 493
+  },
+  "datacard09": {
+    "name": "Data Card 09",
+    "id": "datacard09",
+    "num": 494
+  },
+  "datacard10": {
+    "name": "Data Card 10",
+    "id": "datacard10",
+    "num": 495
+  },
+  "datacard11": {
+    "name": "Data Card 11",
+    "id": "datacard11",
+    "num": 496
+  },
+  "datacard12": {
+    "name": "Data Card 12",
+    "id": "datacard12",
+    "num": 497
+  },
+  "datacard13": {
+    "name": "Data Card 13",
+    "id": "datacard13",
+    "num": 498
+  },
+  "datacard14": {
+    "name": "Data Card 14",
+    "id": "datacard14",
+    "num": 499
+  },
+  "datacard15": {
+    "name": "Data Card 15",
+    "id": "datacard15",
+    "num": 500
+  },
+  "datacard16": {
+    "name": "Data Card 16",
+    "id": "datacard16",
+    "num": 501
+  },
+  "datacard17": {
+    "name": "Data Card 17",
+    "id": "datacard17",
+    "num": 502
+  },
+  "datacard18": {
+    "name": "Data Card 18",
+    "id": "datacard18",
+    "num": 503
+  },
+  "datacard19": {
+    "name": "Data Card 19",
+    "id": "datacard19",
+    "num": 504
+  },
+  "datacard20": {
+    "name": "Data Card 20",
+    "id": "datacard20",
+    "num": 505
+  },
+  "datacard21": {
+    "name": "Data Card 21",
+    "id": "datacard21",
+    "num": 506
+  },
+  "datacard22": {
+    "name": "Data Card 22",
+    "id": "datacard22",
+    "num": 507
+  },
+  "datacard23": {
+    "name": "Data Card 23",
+    "id": "datacard23",
+    "num": 508
+  },
+  "datacard24": {
+    "name": "Data Card 24",
+    "id": "datacard24",
+    "num": 509
+  },
+  "datacard25": {
+    "name": "Data Card 25",
+    "id": "datacard25",
+    "num": 510
+  },
+  "datacard26": {
+    "name": "Data Card 26",
+    "id": "datacard26",
+    "num": 511
+  },
+  "datacard27": {
+    "name": "Data Card 27",
+    "id": "datacard27",
+    "num": 512
+  },
+  "lockcapsule": {
+    "name": "Lock Capsule",
+    "id": "lockcapsule",
+    "num": 513
+  },
+  "photoalbum": {
+    "name": "Photo Album",
+    "id": "photoalbum",
+    "num": 514
+  },
+  "orangemail": {
+    "name": "Orange Mail",
+    "id": "orangemail",
+    "num": 515
+  },
+  "harbormail": {
+    "name": "Harbor Mail",
+    "id": "harbormail",
+    "num": 516
+  },
+  "glittermail": {
+    "name": "Glitter Mail",
+    "id": "glittermail",
+    "num": 517
+  },
+  "mechmail": {
+    "name": "Mech Mail",
+    "id": "mechmail",
+    "num": 518
+  },
+  "woodmail": {
+    "name": "Wood Mail",
+    "id": "woodmail",
+    "num": 519
+  },
+  "wavemail": {
+    "name": "Wave Mail",
+    "id": "wavemail",
+    "num": 520
+  },
+  "beadmail": {
+    "name": "Bead Mail",
+    "id": "beadmail",
+    "num": 521
+  },
+  "shadowmail": {
+    "name": "Shadow Mail",
+    "id": "shadowmail",
+    "num": 522
+  },
+  "tropicmail": {
+    "name": "Tropic Mail",
+    "id": "tropicmail",
+    "num": 523
+  },
+  "dreammail": {
+    "name": "Dream Mail",
+    "id": "dreammail",
+    "num": 524
+  },
+  "fabmail": {
+    "name": "Fab Mail",
+    "id": "fabmail",
+    "num": 525
+  },
+  "retromail": {
+    "name": "Retro Mail",
+    "id": "retromail",
+    "num": 526
+  },
+  "machbike": {
+    "name": "Mach Bike",
+    "id": "machbike",
+    "num": 527
+  },
+  "acrobike": {
+    "name": "Acro Bike",
+    "id": "acrobike",
+    "num": 528
+  },
+  "wailmerpail": {
+    "name": "Wailmer Pail",
+    "id": "wailmerpail",
+    "num": 529
+  },
+  "devongoods": {
+    "name": "Devon Goods",
+    "id": "devongoods",
+    "num": 530
+  },
+  "sootsack": {
+    "name": "Soot Sack",
+    "id": "sootsack",
+    "num": 531
+  },
+  "pokeblockcase": {
+    "name": "Pokeblock Case",
+    "id": "pokeblockcase",
+    "num": 532
+  },
+  "letter": {
+    "name": "Letter",
+    "id": "letter",
+    "num": 533
+  },
+  "eonticket": {
+    "name": "Eon Ticket",
+    "id": "eonticket",
+    "num": 534
+  },
+  "scanner": {
+    "name": "Scanner",
+    "id": "scanner",
+    "num": 535
+  },
+  "gogoggles": {
+    "name": "Go Goggles",
+    "id": "gogoggles",
+    "num": 536
+  },
+  "meteorite": {
+    "name": "Meteorite",
+    "id": "meteorite",
+    "num": 537
+  },
+  "rm1key": {
+    "name": "Rm 1 Key",
+    "id": "rm1key",
+    "num": 538
+  },
+  "rm2key": {
+    "name": "Rm 2 Key",
+    "id": "rm2key",
+    "num": 539
+  },
+  "rm4key": {
+    "name": "Rm 4 Key",
+    "id": "rm4key",
+    "num": 540
+  },
+  "rm6key": {
+    "name": "Rm 6 Key",
+    "id": "rm6key",
+    "num": 541
+  },
+  "devonscope": {
+    "name": "Devon Scope",
+    "id": "devonscope",
+    "num": 542
+  },
+  "oaksparcel": {
+    "name": "Oaks Parcel",
+    "id": "oaksparcel",
+    "num": 543
+  },
+  "pokeflute": {
+    "name": "Poke Flute",
+    "id": "pokeflute",
+    "num": 544
+  },
+  "bikevoucher": {
+    "name": "Bike Voucher",
+    "id": "bikevoucher",
+    "num": 545
+  },
+  "goldteeth": {
+    "name": "Gold Teeth",
+    "id": "goldteeth",
+    "num": 546
+  },
+  "liftkey": {
+    "name": "Lift Key",
+    "id": "liftkey",
+    "num": 547
+  },
+  "silphscope": {
+    "name": "Silph Scope",
+    "id": "silphscope",
+    "num": 548
+  },
+  "famechecker": {
+    "name": "Fame Checker",
+    "id": "famechecker",
+    "num": 549
+  },
+  "tmcase": {
+    "name": "Tm Case",
+    "id": "tmcase",
+    "num": 550
+  },
+  "berrypouch": {
+    "name": "Berry Pouch",
+    "id": "berrypouch",
+    "num": 551
+  },
+  "teachytv": {
+    "name": "Teachy Tv",
+    "id": "teachytv",
+    "num": 552
+  },
+  "tripass": {
+    "name": "Tri Pass",
+    "id": "tripass",
+    "num": 553
+  },
+  "rainbowpass": {
+    "name": "Rainbow Pass",
+    "id": "rainbowpass",
+    "num": 554
+  },
+  "tea": {
+    "name": "Tea",
+    "id": "tea",
+    "num": 555
+  },
+  "mysticticket": {
+    "name": "Mysticticket",
+    "id": "mysticticket",
+    "num": 556
+  },
+  "auroraticket": {
+    "name": "Auroraticket",
+    "id": "auroraticket",
+    "num": 557
+  },
+  "powderjar": {
+    "name": "Powder Jar",
+    "id": "powderjar",
+    "num": 558
+  },
+  "ruby": {
+    "name": "Ruby",
+    "id": "ruby",
+    "num": 559
+  },
+  "sapphire": {
+    "name": "Sapphire",
+    "id": "sapphire",
+    "num": 560
+  },
+  "magmaemblem": {
+    "name": "Magma Emblem",
+    "id": "magmaemblem",
+    "num": 561
+  },
+  "oldseamap": {
+    "name": "Old Sea Map",
+    "id": "oldseamap",
+    "num": 562
+  },
+  "dousedrive": {
+    "name": "Douse Drive",
+    "id": "dousedrive",
+    "num": 563
+  },
+  "shockdrive": {
+    "name": "Shock Drive",
+    "id": "shockdrive",
+    "num": 564
+  },
+  "burndrive": {
+    "name": "Burn Drive",
+    "id": "burndrive",
+    "num": 565
+  },
+  "chilldrive": {
+    "name": "Chill Drive",
+    "id": "chilldrive",
+    "num": 566
+  },
+  "sweetheart": {
+    "name": "Sweet Heart",
+    "id": "sweetheart",
+    "num": 567
+  },
+  "greetmail": {
+    "name": "Greet Mail",
+    "id": "greetmail",
+    "num": 568
+  },
+  "favoredmail": {
+    "name": "Favored Mail",
+    "id": "favoredmail",
+    "num": 569
+  },
+  "rsvpmail": {
+    "name": "Rsvp Mail",
+    "id": "rsvpmail",
+    "num": 570
+  },
+  "thanksmail": {
+    "name": "Thanks Mail",
+    "id": "thanksmail",
+    "num": 571
+  },
+  "inquirymail": {
+    "name": "Inquiry Mail",
+    "id": "inquirymail",
+    "num": 572
+  },
+  "likemail": {
+    "name": "Like Mail",
+    "id": "likemail",
+    "num": 573
+  },
+  "replymail": {
+    "name": "Reply Mail",
+    "id": "replymail",
+    "num": 574
+  },
+  "bridgemails": {
+    "name": "Bridge Mail S",
+    "id": "bridgemails",
+    "num": 575
+  },
+  "bridgemaild": {
+    "name": "Bridge Mail D",
+    "id": "bridgemaild",
+    "num": 576
+  },
+  "bridgemailt": {
+    "name": "Bridge Mail T",
+    "id": "bridgemailt",
+    "num": 577
+  },
+  "bridgemailv": {
+    "name": "Bridge Mail V",
+    "id": "bridgemailv",
+    "num": 578
+  },
+  "bridgemailm": {
+    "name": "Bridge Mail M",
+    "id": "bridgemailm",
+    "num": 579
+  },
+  "prismscale": {
+    "name": "Prism Scale",
+    "id": "prismscale",
+    "num": 580
+  },
+  "eviolite": {
+    "name": "Eviolite",
+    "id": "eviolite",
+    "num": 581
+  },
+  "floatstone": {
+    "name": "Float Stone",
+    "id": "floatstone",
+    "num": 582
+  },
+  "rockyhelmet": {
+    "name": "Rocky Helmet",
+    "id": "rockyhelmet",
+    "num": 583
+  },
+  "airballoon": {
+    "name": "Air Balloon",
+    "id": "airballoon",
+    "num": 584
+  },
+  "redcard": {
+    "name": "Red Card",
+    "id": "redcard",
+    "num": 585
+  },
+  "ringtarget": {
+    "name": "Ring Target",
+    "id": "ringtarget",
+    "num": 586
+  },
+  "bindingband": {
+    "name": "Binding Band",
+    "id": "bindingband",
+    "num": 587
+  },
+  "absorbbulb": {
+    "name": "Absorb Bulb",
+    "id": "absorbbulb",
+    "num": 588
+  },
+  "cellbattery": {
+    "name": "Cell Battery",
+    "id": "cellbattery",
+    "num": 589
+  },
+  "ejectbutton": {
+    "name": "Eject Button",
+    "id": "ejectbutton",
+    "num": 590
+  },
+  "firegem": {
+    "name": "Fire Gem",
+    "id": "firegem",
+    "num": 591
+  },
+  "watergem": {
+    "name": "Water Gem",
+    "id": "watergem",
+    "num": 592
+  },
+  "electricgem": {
+    "name": "Electric Gem",
+    "id": "electricgem",
+    "num": 593
+  },
+  "grassgem": {
+    "name": "Grass Gem",
+    "id": "grassgem",
+    "num": 594
+  },
+  "icegem": {
+    "name": "Ice Gem",
+    "id": "icegem",
+    "num": 595
+  },
+  "fightinggem": {
+    "name": "Fighting Gem",
+    "id": "fightinggem",
+    "num": 596
+  },
+  "poisongem": {
+    "name": "Poison Gem",
+    "id": "poisongem",
+    "num": 597
+  },
+  "groundgem": {
+    "name": "Ground Gem",
+    "id": "groundgem",
+    "num": 598
+  },
+  "flyinggem": {
+    "name": "Flying Gem",
+    "id": "flyinggem",
+    "num": 599
+  },
+  "psychicgem": {
+    "name": "Psychic Gem",
+    "id": "psychicgem",
+    "num": 600
+  },
+  "buggem": {
+    "name": "Bug Gem",
+    "id": "buggem",
+    "num": 601
+  },
+  "rockgem": {
+    "name": "Rock Gem",
+    "id": "rockgem",
+    "num": 602
+  },
+  "ghostgem": {
+    "name": "Ghost Gem",
+    "id": "ghostgem",
+    "num": 603
+  },
+  "darkgem": {
+    "name": "Dark Gem",
+    "id": "darkgem",
+    "num": 604
+  },
+  "steelgem": {
+    "name": "Steel Gem",
+    "id": "steelgem",
+    "num": 605
+  },
+  "healthwing": {
+    "name": "Health Wing",
+    "id": "healthwing",
+    "num": 606
+  },
+  "musclewing": {
+    "name": "Muscle Wing",
+    "id": "musclewing",
+    "num": 607
+  },
+  "resistwing": {
+    "name": "Resist Wing",
+    "id": "resistwing",
+    "num": 608
+  },
+  "geniuswing": {
+    "name": "Genius Wing",
+    "id": "geniuswing",
+    "num": 609
+  },
+  "cleverwing": {
+    "name": "Clever Wing",
+    "id": "cleverwing",
+    "num": 610
+  },
+  "swiftwing": {
+    "name": "Swift Wing",
+    "id": "swiftwing",
+    "num": 611
+  },
+  "prettywing": {
+    "name": "Pretty Wing",
+    "id": "prettywing",
+    "num": 612
+  },
+  "coverfossil": {
+    "name": "Cover Fossil",
+    "id": "coverfossil",
+    "num": 613
+  },
+  "plumefossil": {
+    "name": "Plume Fossil",
+    "id": "plumefossil",
+    "num": 614
+  },
+  "libertypass": {
+    "name": "Liberty Pass",
+    "id": "libertypass",
+    "num": 615
+  },
+  "passorb": {
+    "name": "Pass Orb",
+    "id": "passorb",
+    "num": 616
+  },
+  "dreamball": {
+    "name": "Dream Ball",
+    "id": "dreamball",
+    "num": 617
+  },
+  "poketoy": {
+    "name": "Poke Toy",
+    "id": "poketoy",
+    "num": 618
+  },
+  "propcase": {
+    "name": "Prop Case",
+    "id": "propcase",
+    "num": 619
+  },
+  "dragonskull": {
+    "name": "Dragon Skull",
+    "id": "dragonskull",
+    "num": 620
+  },
+  "balmmushroom": {
+    "name": "Balm Mushroom",
+    "id": "balmmushroom",
+    "num": 621
+  },
+  "bignugget": {
+    "name": "Big Nugget",
+    "id": "bignugget",
+    "num": 622
+  },
+  "pearlstring": {
+    "name": "Pearl String",
+    "id": "pearlstring",
+    "num": 623
+  },
+  "cometshard": {
+    "name": "Comet Shard",
+    "id": "cometshard",
+    "num": 624
+  },
+  "reliccopper": {
+    "name": "Relic Copper",
+    "id": "reliccopper",
+    "num": 625
+  },
+  "relicsilver": {
+    "name": "Relic Silver",
+    "id": "relicsilver",
+    "num": 626
+  },
+  "relicgold": {
+    "name": "Relic Gold",
+    "id": "relicgold",
+    "num": 627
+  },
+  "relicvase": {
+    "name": "Relic Vase",
+    "id": "relicvase",
+    "num": 628
+  },
+  "relicband": {
+    "name": "Relic Band",
+    "id": "relicband",
+    "num": 629
+  },
+  "relicstatue": {
+    "name": "Relic Statue",
+    "id": "relicstatue",
+    "num": 630
+  },
+  "reliccrown": {
+    "name": "Relic Crown",
+    "id": "reliccrown",
+    "num": 631
+  },
+  "casteliacone": {
+    "name": "Casteliacone",
+    "id": "casteliacone",
+    "num": 632
+  },
+  "direhit2": {
+    "name": "Dire Hit 2",
+    "id": "direhit2",
+    "num": 633
+  },
+  "xspeed2": {
+    "name": "X Speed 2",
+    "id": "xspeed2",
+    "num": 634
+  },
+  "xspatk2": {
+    "name": "X Sp Atk 2",
+    "id": "xspatk2",
+    "num": 635
+  },
+  "xspdef2": {
+    "name": "X Sp Def 2",
+    "id": "xspdef2",
+    "num": 636
+  },
+  "xdefense2": {
+    "name": "X Defense 2",
+    "id": "xdefense2",
+    "num": 637
+  },
+  "xattack2": {
+    "name": "X Attack 2",
+    "id": "xattack2",
+    "num": 638
+  },
+  "xaccuracy2": {
+    "name": "X Accuracy 2",
+    "id": "xaccuracy2",
+    "num": 639
+  },
+  "xspeed3": {
+    "name": "X Speed 3",
+    "id": "xspeed3",
+    "num": 640
+  },
+  "xspatk3": {
+    "name": "X Sp Atk 3",
+    "id": "xspatk3",
+    "num": 641
+  },
+  "xspdef3": {
+    "name": "X Sp Def 3",
+    "id": "xspdef3",
+    "num": 642
+  },
+  "xdefense3": {
+    "name": "X Defense 3",
+    "id": "xdefense3",
+    "num": 643
+  },
+  "xattack3": {
+    "name": "X Attack 3",
+    "id": "xattack3",
+    "num": 644
+  },
+  "xaccuracy3": {
+    "name": "X Accuracy 3",
+    "id": "xaccuracy3",
+    "num": 645
+  },
+  "xspeed6": {
+    "name": "X Speed 6",
+    "id": "xspeed6",
+    "num": 646
+  },
+  "xspatk6": {
+    "name": "X Sp Atk 6",
+    "id": "xspatk6",
+    "num": 647
+  },
+  "xspdef6": {
+    "name": "X Sp Def 6",
+    "id": "xspdef6",
+    "num": 648
+  },
+  "xdefense6": {
+    "name": "X Defense 6",
+    "id": "xdefense6",
+    "num": 649
+  },
+  "xattack6": {
+    "name": "X Attack 6",
+    "id": "xattack6",
+    "num": 650
+  },
+  "xaccuracy6": {
+    "name": "X Accuracy 6",
+    "id": "xaccuracy6",
+    "num": 651
+  },
+  "abilityurge": {
+    "name": "Ability Urge",
+    "id": "abilityurge",
+    "num": 652
+  },
+  "itemdrop": {
+    "name": "Item Drop",
+    "id": "itemdrop",
+    "num": 653
+  },
+  "itemurge": {
+    "name": "Item Urge",
+    "id": "itemurge",
+    "num": 654
+  },
+  "reseturge": {
+    "name": "Reset Urge",
+    "id": "reseturge",
+    "num": 655
+  },
+  "direhit3": {
+    "name": "Dire Hit 3",
+    "id": "direhit3",
+    "num": 656
+  },
+  "lightstone": {
+    "name": "Light Stone",
+    "id": "lightstone",
+    "num": 657
+  },
+  "darkstone": {
+    "name": "Dark Stone",
+    "id": "darkstone",
+    "num": 658
+  },
+  "tm93": {
+    "name": "Tm93",
+    "id": "tm93",
+    "num": 659
+  },
+  "tm94": {
+    "name": "Tm94",
+    "id": "tm94",
+    "num": 660
+  },
+  "tm95": {
+    "name": "Tm95",
+    "id": "tm95",
+    "num": 661
+  },
+  "xtransceiver": {
+    "name": "Xtransceiver",
+    "id": "xtransceiver",
+    "num": 662
+  },
+  "godstone": {
+    "name": "God Stone",
+    "id": "godstone",
+    "num": 663
+  },
+  "gram1": {
+    "name": "Gram 1",
+    "id": "gram1",
+    "num": 664
+  },
+  "gram2": {
+    "name": "Gram 2",
+    "id": "gram2",
+    "num": 665
+  },
+  "gram3": {
+    "name": "Gram 3",
+    "id": "gram3",
+    "num": 666
+  },
+  "dragongem": {
+    "name": "Dragon Gem",
+    "id": "dragongem",
+    "num": 668
+  },
+  "normalgem": {
+    "name": "Normal Gem",
+    "id": "normalgem",
+    "num": 669
+  },
+  "medalbox": {
+    "name": "Medal Box",
+    "id": "medalbox",
+    "num": 670
+  },
+  "dnasplicers": {
+    "name": "Dna Splicers",
+    "id": "dnasplicers",
+    "num": 671
+  },
+  "permit": {
+    "name": "Permit",
+    "id": "permit",
+    "num": 673
+  },
+  "ovalcharm": {
+    "name": "Oval Charm",
+    "id": "ovalcharm",
+    "num": 674
+  },
+  "shinycharm": {
+    "name": "Shiny Charm",
+    "id": "shinycharm",
+    "num": 675
+  },
+  "plasmacard": {
+    "name": "Plasma Card",
+    "id": "plasmacard",
+    "num": 676
+  },
+  "grubbyhanky": {
+    "name": "Grubby Hanky",
+    "id": "grubbyhanky",
+    "num": 677
+  },
+  "colressmachine": {
+    "name": "Colress Machine",
+    "id": "colressmachine",
+    "num": 678
+  },
+  "droppeditem": {
+    "name": "Dropped Item",
+    "id": "droppeditem",
+    "num": 679
+  },
+  "revealglass": {
+    "name": "Reveal Glass",
+    "id": "revealglass",
+    "num": 681
+  },
+  "weaknesspolicy": {
+    "name": "Weakness Policy",
+    "id": "weaknesspolicy",
+    "num": 682
+  },
+  "assaultvest": {
+    "name": "Assault Vest",
+    "id": "assaultvest",
+    "num": 683
+  },
+  "pixieplate": {
+    "name": "Pixie Plate",
+    "id": "pixieplate",
+    "num": 684
+  },
+  "abilitycapsule": {
+    "name": "Ability Capsule",
+    "id": "abilitycapsule",
+    "num": 685
+  },
+  "whippeddream": {
+    "name": "Whipped Dream",
+    "id": "whippeddream",
+    "num": 686
+  },
+  "sachet": {
+    "name": "Sachet",
+    "id": "sachet",
+    "num": 687
+  },
+  "luminousmoss": {
+    "name": "Luminous Moss",
+    "id": "luminousmoss",
+    "num": 688
+  },
+  "snowball": {
+    "name": "Snowball",
+    "id": "snowball",
+    "num": 689
+  },
+  "safetygoggles": {
+    "name": "Safety Goggles",
+    "id": "safetygoggles",
+    "num": 690
+  },
+  "richmulch": {
+    "name": "Rich Mulch",
+    "id": "richmulch",
+    "num": 691
+  },
+  "surprisemulch": {
+    "name": "Surprise Mulch",
+    "id": "surprisemulch",
+    "num": 692
+  },
+  "boostmulch": {
+    "name": "Boost Mulch",
+    "id": "boostmulch",
+    "num": 693
+  },
+  "amazemulch": {
+    "name": "Amaze Mulch",
+    "id": "amazemulch",
+    "num": 694
+  },
+  "gengarite": {
+    "name": "Gengarite",
+    "id": "gengarite",
+    "num": 695
+  },
+  "gardevoirite": {
+    "name": "Gardevoirite",
+    "id": "gardevoirite",
+    "num": 696
+  },
+  "ampharosite": {
+    "name": "Ampharosite",
+    "id": "ampharosite",
+    "num": 697
+  },
+  "venusaurite": {
+    "name": "Venusaurite",
+    "id": "venusaurite",
+    "num": 698
+  },
+  "charizarditex": {
+    "name": "Charizardite X",
+    "id": "charizarditex",
+    "num": 699
+  },
+  "blastoisinite": {
+    "name": "Blastoisinite",
+    "id": "blastoisinite",
+    "num": 700
+  },
+  "mewtwonitex": {
+    "name": "Mewtwonite X",
+    "id": "mewtwonitex",
+    "num": 701
+  },
+  "mewtwonitey": {
+    "name": "Mewtwonite Y",
+    "id": "mewtwonitey",
+    "num": 702
+  },
+  "blazikenite": {
+    "name": "Blazikenite",
+    "id": "blazikenite",
+    "num": 703
+  },
+  "medichamite": {
+    "name": "Medichamite",
+    "id": "medichamite",
+    "num": 704
+  },
+  "houndoominite": {
+    "name": "Houndoominite",
+    "id": "houndoominite",
+    "num": 705
+  },
+  "aggronite": {
+    "name": "Aggronite",
+    "id": "aggronite",
+    "num": 706
+  },
+  "banettite": {
+    "name": "Banettite",
+    "id": "banettite",
+    "num": 707
+  },
+  "tyranitarite": {
+    "name": "Tyranitarite",
+    "id": "tyranitarite",
+    "num": 708
+  },
+  "scizorite": {
+    "name": "Scizorite",
+    "id": "scizorite",
+    "num": 709
+  },
+  "pinsirite": {
+    "name": "Pinsirite",
+    "id": "pinsirite",
+    "num": 710
+  },
+  "aerodactylite": {
+    "name": "Aerodactylite",
+    "id": "aerodactylite",
+    "num": 711
+  },
+  "lucarionite": {
+    "name": "Lucarionite",
+    "id": "lucarionite",
+    "num": 712
+  },
+  "abomasite": {
+    "name": "Abomasite",
+    "id": "abomasite",
+    "num": 713
+  },
+  "kangaskhanite": {
+    "name": "Kangaskhanite",
+    "id": "kangaskhanite",
+    "num": 714
+  },
+  "gyaradosite": {
+    "name": "Gyaradosite",
+    "id": "gyaradosite",
+    "num": 715
+  },
+  "absolite": {
+    "name": "Absolite",
+    "id": "absolite",
+    "num": 716
+  },
+  "charizarditey": {
+    "name": "Charizardite Y",
+    "id": "charizarditey",
+    "num": 717
+  },
+  "alakazite": {
+    "name": "Alakazite",
+    "id": "alakazite",
+    "num": 718
+  },
+  "heracronite": {
+    "name": "Heracronite",
+    "id": "heracronite",
+    "num": 719
+  },
+  "mawilite": {
+    "name": "Mawilite",
+    "id": "mawilite",
+    "num": 720
+  },
+  "manectite": {
+    "name": "Manectite",
+    "id": "manectite",
+    "num": 721
+  },
+  "garchompite": {
+    "name": "Garchompite",
+    "id": "garchompite",
+    "num": 722
+  },
+  "roseliberry": {
+    "name": "Roseli Berry",
+    "id": "roseliberry",
+    "num": 723
+  },
+  "keeberry": {
+    "name": "Kee Berry",
+    "id": "keeberry",
+    "num": 724
+  },
+  "marangaberry": {
+    "name": "Maranga Berry",
+    "id": "marangaberry",
+    "num": 725
+  },
+  "discountcoupon": {
+    "name": "Discount Coupon",
+    "id": "discountcoupon",
+    "num": 726
+  },
+  "strangesouvenir": {
+    "name": "Strange Souvenir",
+    "id": "strangesouvenir",
+    "num": 727
+  },
+  "lumiosegalette": {
+    "name": "Lumiose Galette",
+    "id": "lumiosegalette",
+    "num": 728
+  },
+  "jawfossil": {
+    "name": "Jaw Fossil",
+    "id": "jawfossil",
+    "num": 729
+  },
+  "sailfossil": {
+    "name": "Sail Fossil",
+    "id": "sailfossil",
+    "num": 730
+  },
+  "fairygem": {
+    "name": "Fairy Gem",
+    "id": "fairygem",
+    "num": 731
+  },
+  "adventurerules": {
+    "name": "Adventure Rules",
+    "id": "adventurerules",
+    "num": 732
+  },
+  "elevatorkey": {
+    "name": "Elevator Key",
+    "id": "elevatorkey",
+    "num": 733
+  },
+  "holocaster": {
+    "name": "Holo Caster",
+    "id": "holocaster",
+    "num": 734
+  },
+  "honorofkalos": {
+    "name": "Honor Of Kalos",
+    "id": "honorofkalos",
+    "num": 735
+  },
+  "intriguingstone": {
+    "name": "Intriguing Stone",
+    "id": "intriguingstone",
+    "num": 736
+  },
+  "lenscase": {
+    "name": "Lens Case",
+    "id": "lenscase",
+    "num": 737
+  },
+  "lookerticket": {
+    "name": "Looker Ticket",
+    "id": "lookerticket",
+    "num": 738
+  },
+  "megaring": {
+    "name": "Mega Ring",
+    "id": "megaring",
+    "num": 739
+  },
+  "powerplantpass": {
+    "name": "Power Plant Pass",
+    "id": "powerplantpass",
+    "num": 740
+  },
+  "profsletter": {
+    "name": "Profs Letter",
+    "id": "profsletter",
+    "num": 741
+  },
+  "rollerskates": {
+    "name": "Roller Skates",
+    "id": "rollerskates",
+    "num": 742
+  },
+  "sprinklotad": {
+    "name": "Sprinklotad",
+    "id": "sprinklotad",
+    "num": 743
+  },
+  "tmvpass": {
+    "name": "Tmv Pass",
+    "id": "tmvpass",
+    "num": 744
+  },
+  "tm96": {
+    "name": "Tm96",
+    "id": "tm96",
+    "num": 745
+  },
+  "tm97": {
+    "name": "Tm97",
+    "id": "tm97",
+    "num": 746
+  },
+  "tm98": {
+    "name": "Tm98",
+    "id": "tm98",
+    "num": 747
+  },
+  "tm99": {
+    "name": "Tm99",
+    "id": "tm99",
+    "num": 748
+  },
+  "tm100": {
+    "name": "Tm100",
+    "id": "tm100",
+    "num": 749
+  },
+  "latiasite": {
+    "name": "Latiasite",
+    "id": "latiasite",
+    "num": 760
+  },
+  "latiosite": {
+    "name": "Latiosite",
+    "id": "latiosite",
+    "num": 761
+  },
+  "commonstone": {
+    "name": "Common Stone",
+    "id": "commonstone",
+    "num": 762
+  },
+  "makeupbag": {
+    "name": "Makeup Bag",
+    "id": "makeupbag",
+    "num": 763
+  },
+  "traveltrunk": {
+    "name": "Travel Trunk",
+    "id": "traveltrunk",
+    "num": 764
+  },
+  "shaloursable": {
+    "name": "Shalour Sable",
+    "id": "shaloursable",
+    "num": 765
+  },
+  "megacharm": {
+    "name": "Mega Charm",
+    "id": "megacharm",
+    "num": 768
+  },
+  "megaglove": {
+    "name": "Mega Glove",
+    "id": "megaglove",
+    "num": 769
+  },
+  "devonparts": {
+    "name": "Devon Parts",
+    "id": "devonparts",
+    "num": 770
+  },
+  "pokeblockkit": {
+    "name": "Pokeblock Kit",
+    "id": "pokeblockkit",
+    "num": 772
+  },
+  "keytoroom1": {
+    "name": "Key To Room 1",
+    "id": "keytoroom1",
+    "num": 773
+  },
+  "keytoroom2": {
+    "name": "Key To Room 2",
+    "id": "keytoroom2",
+    "num": 774
+  },
+  "keytoroom4": {
+    "name": "Key To Room 4",
+    "id": "keytoroom4",
+    "num": 775
+  },
+  "keytoroom6": {
+    "name": "Key To Room 6",
+    "id": "keytoroom6",
+    "num": 776
+  },
+  "devonscubagear": {
+    "name": "Devon Scuba Gear",
+    "id": "devonscubagear",
+    "num": 779
+  },
+  "contestcostumejacket": {
+    "name": "Contest Costume  Jacket",
+    "id": "contestcostumejacket",
+    "num": 780
+  },
+  "magmasuit": {
+    "name": "Magma Suit",
+    "id": "magmasuit",
+    "num": 782
+  },
+  "aquasuit": {
+    "name": "Aqua Suit",
+    "id": "aquasuit",
+    "num": 783
+  },
+  "pairoftickets": {
+    "name": "Pair Of Tickets",
+    "id": "pairoftickets",
+    "num": 784
+  },
+  "megabracelet": {
+    "name": "Mega Bracelet",
+    "id": "megabracelet",
+    "num": 785
+  },
+  "megapendant": {
+    "name": "Mega Pendant",
+    "id": "megapendant",
+    "num": 786
+  },
+  "megaglasses": {
+    "name": "Mega Glasses",
+    "id": "megaglasses",
+    "num": 787
+  },
+  "megaanchor": {
+    "name": "Mega Anchor",
+    "id": "megaanchor",
+    "num": 788
+  },
+  "megastickpin": {
+    "name": "Mega Stickpin",
+    "id": "megastickpin",
+    "num": 789
+  },
+  "megatiara": {
+    "name": "Mega Tiara",
+    "id": "megatiara",
+    "num": 790
+  },
+  "megaanklet": {
+    "name": "Mega Anklet",
+    "id": "megaanklet",
+    "num": 791
+  },
+  "swampertite": {
+    "name": "Swampertite",
+    "id": "swampertite",
+    "num": 793
+  },
+  "sceptilite": {
+    "name": "Sceptilite",
+    "id": "sceptilite",
+    "num": 794
+  },
+  "sablenite": {
+    "name": "Sablenite",
+    "id": "sablenite",
+    "num": 795
+  },
+  "altarianite": {
+    "name": "Altarianite",
+    "id": "altarianite",
+    "num": 796
+  },
+  "galladite": {
+    "name": "Galladite",
+    "id": "galladite",
+    "num": 797
+  },
+  "audinite": {
+    "name": "Audinite",
+    "id": "audinite",
+    "num": 798
+  },
+  "metagrossite": {
+    "name": "Metagrossite",
+    "id": "metagrossite",
+    "num": 799
+  },
+  "sharpedonite": {
+    "name": "Sharpedonite",
+    "id": "sharpedonite",
+    "num": 800
+  },
+  "slowbronite": {
+    "name": "Slowbronite",
+    "id": "slowbronite",
+    "num": 801
+  },
+  "steelixite": {
+    "name": "Steelixite",
+    "id": "steelixite",
+    "num": 802
+  },
+  "pidgeotite": {
+    "name": "Pidgeotite",
+    "id": "pidgeotite",
+    "num": 803
+  },
+  "glalitite": {
+    "name": "Glalitite",
+    "id": "glalitite",
+    "num": 804
+  },
+  "diancite": {
+    "name": "Diancite",
+    "id": "diancite",
+    "num": 805
+  },
+  "prisonbottle": {
+    "name": "Prison Bottle",
+    "id": "prisonbottle",
+    "num": 806
+  },
+  "megacuff": {
+    "name": "Mega Cuff",
+    "id": "megacuff",
+    "num": 807
+  },
+  "cameruptite": {
+    "name": "Cameruptite",
+    "id": "cameruptite",
+    "num": 808
+  },
+  "lopunnite": {
+    "name": "Lopunnite",
+    "id": "lopunnite",
+    "num": 809
+  },
+  "salamencite": {
+    "name": "Salamencite",
+    "id": "salamencite",
+    "num": 810
+  },
+  "beedrillite": {
+    "name": "Beedrillite",
+    "id": "beedrillite",
+    "num": 811
+  },
+  "keystone": {
+    "name": "Key Stone",
+    "id": "keystone",
+    "num": 814
+  },
+  "meteoriteshard": {
+    "name": "Meteorite Shard",
+    "id": "meteoriteshard",
+    "num": 815
+  },
+  "eonflute": {
+    "name": "Eon Flute",
+    "id": "eonflute",
+    "num": 816
+  },
+  "normaliumzheld": {
+    "name": "Normalium Z  Held",
+    "id": "normaliumzheld",
+    "num": 817
+  },
+  "firiumzheld": {
+    "name": "Firium Z  Held",
+    "id": "firiumzheld",
+    "num": 818
+  },
+  "wateriumzheld": {
+    "name": "Waterium Z  Held",
+    "id": "wateriumzheld",
+    "num": 819
+  },
+  "electriumzheld": {
+    "name": "Electrium Z  Held",
+    "id": "electriumzheld",
+    "num": 820
+  },
+  "grassiumzheld": {
+    "name": "Grassium Z  Held",
+    "id": "grassiumzheld",
+    "num": 821
+  },
+  "iciumzheld": {
+    "name": "Icium Z  Held",
+    "id": "iciumzheld",
+    "num": 822
+  },
+  "fightiniumzheld": {
+    "name": "Fightinium Z  Held",
+    "id": "fightiniumzheld",
+    "num": 823
+  },
+  "poisoniumzheld": {
+    "name": "Poisonium Z  Held",
+    "id": "poisoniumzheld",
+    "num": 824
+  },
+  "groundiumzheld": {
+    "name": "Groundium Z  Held",
+    "id": "groundiumzheld",
+    "num": 825
+  },
+  "flyiniumzheld": {
+    "name": "Flyinium Z  Held",
+    "id": "flyiniumzheld",
+    "num": 826
+  },
+  "psychiumzheld": {
+    "name": "Psychium Z  Held",
+    "id": "psychiumzheld",
+    "num": 827
+  },
+  "buginiumzheld": {
+    "name": "Buginium Z  Held",
+    "id": "buginiumzheld",
+    "num": 828
+  },
+  "rockiumzheld": {
+    "name": "Rockium Z  Held",
+    "id": "rockiumzheld",
+    "num": 829
+  },
+  "ghostiumzheld": {
+    "name": "Ghostium Z  Held",
+    "id": "ghostiumzheld",
+    "num": 830
+  },
+  "dragoniumzheld": {
+    "name": "Dragonium Z  Held",
+    "id": "dragoniumzheld",
+    "num": 831
+  },
+  "darkiniumzheld": {
+    "name": "Darkinium Z  Held",
+    "id": "darkiniumzheld",
+    "num": 832
+  },
+  "steeliumzheld": {
+    "name": "Steelium Z  Held",
+    "id": "steeliumzheld",
+    "num": 833
+  },
+  "fairiumzheld": {
+    "name": "Fairium Z  Held",
+    "id": "fairiumzheld",
+    "num": 834
+  },
+  "pikaniumzheld": {
+    "name": "Pikanium Z  Held",
+    "id": "pikaniumzheld",
+    "num": 835
+  },
+  "bottlecap": {
+    "name": "Bottle Cap",
+    "id": "bottlecap",
+    "num": 836
+  },
+  "goldbottlecap": {
+    "name": "Gold Bottle Cap",
+    "id": "goldbottlecap",
+    "num": 837
+  },
+  "zring": {
+    "name": "Z Ring",
+    "id": "zring",
+    "num": 838
+  },
+  "decidiumzheld": {
+    "name": "Decidium Z  Held",
+    "id": "decidiumzheld",
+    "num": 839
+  },
+  "inciniumzheld": {
+    "name": "Incinium Z  Held",
+    "id": "inciniumzheld",
+    "num": 840
+  },
+  "primariumzheld": {
+    "name": "Primarium Z  Held",
+    "id": "primariumzheld",
+    "num": 841
+  },
+  "tapuniumzheld": {
+    "name": "Tapunium Z  Held",
+    "id": "tapuniumzheld",
+    "num": 842
+  },
+  "marshadiumzheld": {
+    "name": "Marshadium Z  Held",
+    "id": "marshadiumzheld",
+    "num": 843
+  },
+  "aloraichiumzheld": {
+    "name": "Aloraichium Z  Held",
+    "id": "aloraichiumzheld",
+    "num": 844
+  },
+  "snorliumzheld": {
+    "name": "Snorlium Z  Held",
+    "id": "snorliumzheld",
+    "num": 845
+  },
+  "eeviumzheld": {
+    "name": "Eevium Z  Held",
+    "id": "eeviumzheld",
+    "num": 846
+  },
+  "mewniumzheld": {
+    "name": "Mewnium Z  Held",
+    "id": "mewniumzheld",
+    "num": 847
+  },
+  "pikashuniumzheld": {
+    "name": "Pikashunium Z  Held",
+    "id": "pikashuniumzheld",
+    "num": 877
+  },
+  "foragebag": {
+    "name": "Forage Bag",
+    "id": "foragebag",
+    "num": 878
+  },
+  "fishingrod": {
+    "name": "Fishing Rod",
+    "id": "fishingrod",
+    "num": 879
+  },
+  "professorsmask": {
+    "name": "Professors Mask",
+    "id": "professorsmask",
+    "num": 880
+  },
+  "festivalticket": {
+    "name": "Festival Ticket",
+    "id": "festivalticket",
+    "num": 881
+  },
+  "sparklingstone": {
+    "name": "Sparkling Stone",
+    "id": "sparklingstone",
+    "num": 882
+  },
+  "adrenalineorb": {
+    "name": "Adrenaline Orb",
+    "id": "adrenalineorb",
+    "num": 883
+  },
+  "zygardecube": {
+    "name": "Zygarde Cube",
+    "id": "zygardecube",
+    "num": 884
+  },
+  "icestone": {
+    "name": "Ice Stone",
+    "id": "icestone",
+    "num": 885
+  },
+  "ridepager": {
+    "name": "Ride Pager",
+    "id": "ridepager",
+    "num": 886
+  },
+  "beastball": {
+    "name": "Beast Ball",
+    "id": "beastball",
+    "num": 887
+  },
+  "bigmalasada": {
+    "name": "Big Malasada",
+    "id": "bigmalasada",
+    "num": 888
+  },
+  "rednectar": {
+    "name": "Red Nectar",
+    "id": "rednectar",
+    "num": 889
+  },
+  "yellownectar": {
+    "name": "Yellow Nectar",
+    "id": "yellownectar",
+    "num": 890
+  },
+  "pinknectar": {
+    "name": "Pink Nectar",
+    "id": "pinknectar",
+    "num": 891
+  },
+  "purplenectar": {
+    "name": "Purple Nectar",
+    "id": "purplenectar",
+    "num": 892
+  },
+  "sunflute": {
+    "name": "Sun Flute",
+    "id": "sunflute",
+    "num": 893
+  },
+  "moonflute": {
+    "name": "Moon Flute",
+    "id": "moonflute",
+    "num": 894
+  },
+  "enigmaticcard": {
+    "name": "Enigmatic Card",
+    "id": "enigmaticcard",
+    "num": 895
+  },
+  "terrainextender": {
+    "name": "Terrain Extender",
+    "id": "terrainextender",
+    "num": 896
+  },
+  "protectivepads": {
+    "name": "Protective Pads",
+    "id": "protectivepads",
+    "num": 897
+  },
+  "electricseed": {
+    "name": "Electric Seed",
+    "id": "electricseed",
+    "num": 898
+  },
+  "psychicseed": {
+    "name": "Psychic Seed",
+    "id": "psychicseed",
+    "num": 899
+  },
+  "mistyseed": {
+    "name": "Misty Seed",
+    "id": "mistyseed",
+    "num": 900
+  },
+  "grassyseed": {
+    "name": "Grassy Seed",
+    "id": "grassyseed",
+    "num": 901
+  },
+  "fightingmemory": {
+    "name": "Fighting Memory",
+    "id": "fightingmemory",
+    "num": 902
+  },
+  "flyingmemory": {
+    "name": "Flying Memory",
+    "id": "flyingmemory",
+    "num": 903
+  },
+  "poisonmemory": {
+    "name": "Poison Memory",
+    "id": "poisonmemory",
+    "num": 904
+  },
+  "groundmemory": {
+    "name": "Ground Memory",
+    "id": "groundmemory",
+    "num": 905
+  },
+  "rockmemory": {
+    "name": "Rock Memory",
+    "id": "rockmemory",
+    "num": 906
+  },
+  "bugmemory": {
+    "name": "Bug Memory",
+    "id": "bugmemory",
+    "num": 907
+  },
+  "ghostmemory": {
+    "name": "Ghost Memory",
+    "id": "ghostmemory",
+    "num": 908
+  },
+  "steelmemory": {
+    "name": "Steel Memory",
+    "id": "steelmemory",
+    "num": 909
+  },
+  "firememory": {
+    "name": "Fire Memory",
+    "id": "firememory",
+    "num": 910
+  },
+  "watermemory": {
+    "name": "Water Memory",
+    "id": "watermemory",
+    "num": 911
+  },
+  "grassmemory": {
+    "name": "Grass Memory",
+    "id": "grassmemory",
+    "num": 912
+  },
+  "electricmemory": {
+    "name": "Electric Memory",
+    "id": "electricmemory",
+    "num": 913
+  },
+  "psychicmemory": {
+    "name": "Psychic Memory",
+    "id": "psychicmemory",
+    "num": 914
+  },
+  "icememory": {
+    "name": "Ice Memory",
+    "id": "icememory",
+    "num": 915
+  },
+  "dragonmemory": {
+    "name": "Dragon Memory",
+    "id": "dragonmemory",
+    "num": 916
+  },
+  "darkmemory": {
+    "name": "Dark Memory",
+    "id": "darkmemory",
+    "num": 917
+  },
+  "fairymemory": {
+    "name": "Fairy Memory",
+    "id": "fairymemory",
+    "num": 918
+  },
+  "bikegreen": {
+    "name": "Bike  Green",
+    "id": "bikegreen",
+    "num": 919
+  },
+  "storagekeygalacticwarehouse": {
+    "name": "Storage Key  Galactic Warehouse",
+    "id": "storagekeygalacticwarehouse",
+    "num": 920
+  },
+  "basementkeygoldenrod": {
+    "name": "Basement Key  Goldenrod",
+    "id": "basementkeygoldenrod",
+    "num": 921
+  },
+  "xtransceiverred": {
+    "name": "Xtransceiver  Red",
+    "id": "xtransceiverred",
+    "num": 922
+  },
+  "xtransceiveryellow": {
+    "name": "Xtransceiver  Yellow",
+    "id": "xtransceiveryellow",
+    "num": 923
+  },
+  "dnasplicersmerge": {
+    "name": "Dna Splicers  Merge",
+    "id": "dnasplicersmerge",
+    "num": 924
+  },
+  "dnasplicerssplit": {
+    "name": "Dna Splicers  Split",
+    "id": "dnasplicerssplit",
+    "num": 925
+  },
+  "droppeditemred": {
+    "name": "Dropped Item  Red",
+    "id": "droppeditemred",
+    "num": 926
+  },
+  "droppeditemyellow": {
+    "name": "Dropped Item  Yellow",
+    "id": "droppeditemyellow",
+    "num": 927
+  },
+  "holocastergreen": {
+    "name": "Holo Caster  Green",
+    "id": "holocastergreen",
+    "num": 928
+  },
+  "bikeyellow": {
+    "name": "Bike  Yellow",
+    "id": "bikeyellow",
+    "num": 929
+  },
+  "holocasterred": {
+    "name": "Holo Caster  Red",
+    "id": "holocasterred",
+    "num": 930
+  },
+  "basementkeynewmauville": {
+    "name": "Basement Key  New Mauville",
+    "id": "basementkeynewmauville",
+    "num": 931
+  },
+  "storagekeyseamauville": {
+    "name": "Storage Key  Sea Mauville",
+    "id": "storagekeyseamauville",
+    "num": 932
+  },
+  "sstickethoenn": {
+    "name": "Ss Ticket  Hoenn",
+    "id": "sstickethoenn",
+    "num": 933
+  },
+  "contestcostumedress": {
+    "name": "Contest Costume  Dress",
+    "id": "contestcostumedress",
+    "num": 934
+  },
+  "meteorite2": {
+    "name": "Meteorite  2",
+    "id": "meteorite2",
+    "num": 935
+  },
+  "meteorite3": {
+    "name": "Meteorite  3",
+    "id": "meteorite3",
+    "num": 936
+  },
+  "meteorite4": {
+    "name": "Meteorite  4",
+    "id": "meteorite4",
+    "num": 937
+  },
+  "normaliumzbag": {
+    "name": "Normalium Z  Bag",
+    "id": "normaliumzbag",
+    "num": 938
+  },
+  "firiumzbag": {
+    "name": "Firium Z  Bag",
+    "id": "firiumzbag",
+    "num": 939
+  },
+  "wateriumzbag": {
+    "name": "Waterium Z  Bag",
+    "id": "wateriumzbag",
+    "num": 940
+  },
+  "electriumzbag": {
+    "name": "Electrium Z  Bag",
+    "id": "electriumzbag",
+    "num": 941
+  },
+  "grassiumzbag": {
+    "name": "Grassium Z  Bag",
+    "id": "grassiumzbag",
+    "num": 942
+  },
+  "iciumzbag": {
+    "name": "Icium Z  Bag",
+    "id": "iciumzbag",
+    "num": 943
+  },
+  "fightiniumzbag": {
+    "name": "Fightinium Z  Bag",
+    "id": "fightiniumzbag",
+    "num": 944
+  },
+  "poisoniumzbag": {
+    "name": "Poisonium Z  Bag",
+    "id": "poisoniumzbag",
+    "num": 945
+  },
+  "groundiumzbag": {
+    "name": "Groundium Z  Bag",
+    "id": "groundiumzbag",
+    "num": 946
+  },
+  "flyiniumzbag": {
+    "name": "Flyinium Z  Bag",
+    "id": "flyiniumzbag",
+    "num": 947
+  },
+  "psychiumzbag": {
+    "name": "Psychium Z  Bag",
+    "id": "psychiumzbag",
+    "num": 948
+  },
+  "buginiumzbag": {
+    "name": "Buginium Z  Bag",
+    "id": "buginiumzbag",
+    "num": 949
+  },
+  "rockiumzbag": {
+    "name": "Rockium Z  Bag",
+    "id": "rockiumzbag",
+    "num": 950
+  },
+  "ghostiumzbag": {
+    "name": "Ghostium Z  Bag",
+    "id": "ghostiumzbag",
+    "num": 951
+  },
+  "dragoniumzbag": {
+    "name": "Dragonium Z  Bag",
+    "id": "dragoniumzbag",
+    "num": 952
+  },
+  "darkiniumzbag": {
+    "name": "Darkinium Z  Bag",
+    "id": "darkiniumzbag",
+    "num": 953
+  },
+  "steeliumzbag": {
+    "name": "Steelium Z  Bag",
+    "id": "steeliumzbag",
+    "num": 954
+  },
+  "fairiumzbag": {
+    "name": "Fairium Z  Bag",
+    "id": "fairiumzbag",
+    "num": 955
+  },
+  "pikaniumzbag": {
+    "name": "Pikanium Z  Bag",
+    "id": "pikaniumzbag",
+    "num": 956
+  },
+  "decidiumzbag": {
+    "name": "Decidium Z  Bag",
+    "id": "decidiumzbag",
+    "num": 957
+  },
+  "inciniumzbag": {
+    "name": "Incinium Z  Bag",
+    "id": "inciniumzbag",
+    "num": 958
+  },
+  "primariumzbag": {
+    "name": "Primarium Z  Bag",
+    "id": "primariumzbag",
+    "num": 959
+  },
+  "tapuniumzbag": {
+    "name": "Tapunium Z  Bag",
+    "id": "tapuniumzbag",
+    "num": 960
+  },
+  "marshadiumzbag": {
+    "name": "Marshadium Z  Bag",
+    "id": "marshadiumzbag",
+    "num": 961
+  },
+  "aloraichiumzbag": {
+    "name": "Aloraichium Z  Bag",
+    "id": "aloraichiumzbag",
+    "num": 962
+  },
+  "snorliumzbag": {
+    "name": "Snorlium Z  Bag",
+    "id": "snorliumzbag",
+    "num": 963
+  },
+  "eeviumzbag": {
+    "name": "Eevium Z  Bag",
+    "id": "eeviumzbag",
+    "num": 964
+  },
+  "mewniumzbag": {
+    "name": "Mewnium Z  Bag",
+    "id": "mewniumzbag",
+    "num": 965
+  },
+  "pikashuniumzbag": {
+    "name": "Pikashunium Z  Bag",
+    "id": "pikashuniumzbag",
+    "num": 966
+  },
+  "solganiumzheld": {
+    "name": "Solganium Z  Held",
+    "id": "solganiumzheld",
+    "num": 967
+  },
+  "lunaliumzheld": {
+    "name": "Lunalium Z  Held",
+    "id": "lunaliumzheld",
+    "num": 968
+  },
+  "ultranecroziumzheld": {
+    "name": "Ultranecrozium Z  Held",
+    "id": "ultranecroziumzheld",
+    "num": 969
+  },
+  "mimikiumzheld": {
+    "name": "Mimikium Z  Held",
+    "id": "mimikiumzheld",
+    "num": 970
+  },
+  "lycaniumzheld": {
+    "name": "Lycanium Z  Held",
+    "id": "lycaniumzheld",
+    "num": 971
+  },
+  "kommoniumzheld": {
+    "name": "Kommonium Z  Held",
+    "id": "kommoniumzheld",
+    "num": 972
+  },
+  "solganiumzbag": {
+    "name": "Solganium Z  Bag",
+    "id": "solganiumzbag",
+    "num": 973
+  },
+  "lunaliumzbag": {
+    "name": "Lunalium Z  Bag",
+    "id": "lunaliumzbag",
+    "num": 974
+  },
+  "ultranecroziumzbag": {
+    "name": "Ultranecrozium Z  Bag",
+    "id": "ultranecroziumzbag",
+    "num": 975
+  },
+  "mimikiumzbag": {
+    "name": "Mimikium Z  Bag",
+    "id": "mimikiumzbag",
+    "num": 976
+  },
+  "lycaniumzbag": {
+    "name": "Lycanium Z  Bag",
+    "id": "lycaniumzbag",
+    "num": 977
+  },
+  "kommoniumzbag": {
+    "name": "Kommonium Z  Bag",
+    "id": "kommoniumzbag",
+    "num": 978
+  },
+  "zpowerring": {
+    "name": "Z Power Ring",
+    "id": "zpowerring",
+    "num": 979
+  },
+  "pinkpetal": {
+    "name": "Pink Petal",
+    "id": "pinkpetal",
+    "num": 980
+  },
+  "orangepetal": {
+    "name": "Orange Petal",
+    "id": "orangepetal",
+    "num": 981
+  },
+  "bluepetal": {
+    "name": "Blue Petal",
+    "id": "bluepetal",
+    "num": 982
+  },
+  "redpetal": {
+    "name": "Red Petal",
+    "id": "redpetal",
+    "num": 983
+  },
+  "greenpetal": {
+    "name": "Green Petal",
+    "id": "greenpetal",
+    "num": 984
+  },
+  "yellowpetal": {
+    "name": "Yellow Petal",
+    "id": "yellowpetal",
+    "num": 985
+  },
+  "purplepetal": {
+    "name": "Purple Petal",
+    "id": "purplepetal",
+    "num": 986
+  },
+  "rainbowflower": {
+    "name": "Rainbow Flower",
+    "id": "rainbowflower",
+    "num": 987
+  },
+  "surgebadge": {
+    "name": "Surge Badge",
+    "id": "surgebadge",
+    "num": 988
+  },
+  "nsolarizermerge": {
+    "name": "N Solarizer  Merge",
+    "id": "nsolarizermerge",
+    "num": 989
+  },
+  "nlunarizermerge": {
+    "name": "N Lunarizer  Merge",
+    "id": "nlunarizermerge",
+    "num": 990
+  },
+  "nsolarizersplit": {
+    "name": "N Solarizer  Split",
+    "id": "nsolarizersplit",
+    "num": 991
+  },
+  "nlunarizersplit": {
+    "name": "N Lunarizer  Split",
+    "id": "nlunarizersplit",
+    "num": 992
+  },
+  "ilimasnormaliumz": {
+    "name": "Ilimas Normalium Z",
+    "id": "ilimasnormaliumz",
+    "num": 993
+  },
+  "leftpokeball": {
+    "name": "Left Poke Ball",
+    "id": "leftpokeball",
+    "num": 994
+  },
+  "rotohatch": {
+    "name": "Roto Hatch",
+    "id": "rotohatch",
+    "num": 995
+  },
+  "rotobargain": {
+    "name": "Roto Bargain",
+    "id": "rotobargain",
+    "num": 996
+  },
+  "rotoprizemoney": {
+    "name": "Roto Prize Money",
+    "id": "rotoprizemoney",
+    "num": 997
+  },
+  "rotoexppoints": {
+    "name": "Roto Exp Points",
+    "id": "rotoexppoints",
+    "num": 998
+  },
+  "rotofriendship": {
+    "name": "Roto Friendship",
+    "id": "rotofriendship",
+    "num": 999
+  },
+  "rotoencounter": {
+    "name": "Roto Encounter",
+    "id": "rotoencounter",
+    "num": 1000
+  },
+  "rotostealth": {
+    "name": "Roto Stealth",
+    "id": "rotostealth",
+    "num": 1001
+  },
+  "rotohprestore": {
+    "name": "Roto Hp Restore",
+    "id": "rotohprestore",
+    "num": 1002
+  },
+  "rotopprestore": {
+    "name": "Roto Pp Restore",
+    "id": "rotopprestore",
+    "num": 1003
+  },
+  "rotoboost": {
+    "name": "Roto Boost",
+    "id": "rotoboost",
+    "num": 1004
+  },
+  "rotocatch": {
+    "name": "Roto Catch",
+    "id": "rotocatch",
+    "num": 1005
+  },
+  "autograph": {
+    "name": "Autograph",
+    "id": "autograph",
+    "num": 1006
+  },
+  "pokemonbox": {
+    "name": "Pokemon Box",
+    "id": "pokemonbox",
+    "num": 1007
+  },
+  "medicinepocket": {
+    "name": "Medicine Pocket",
+    "id": "medicinepocket",
+    "num": 1008
+  },
+  "candyjar": {
+    "name": "Candy Jar",
+    "id": "candyjar",
+    "num": 1009
+  },
+  "poweruppocket": {
+    "name": "Power Up Pocket",
+    "id": "poweruppocket",
+    "num": 1010
+  },
+  "clothingtrunk": {
+    "name": "Clothing Trunk",
+    "id": "clothingtrunk",
+    "num": 1011
+  },
+  "catchingpocket": {
+    "name": "Catching Pocket",
+    "id": "catchingpocket",
+    "num": 1012
+  },
+  "battlepocket": {
+    "name": "Battle Pocket",
+    "id": "battlepocket",
+    "num": 1013
+  },
+  "silverrazzberry": {
+    "name": "Silver Razz Berry",
+    "id": "silverrazzberry",
+    "num": 1014
+  },
+  "goldenrazzberry": {
+    "name": "Golden Razz Berry",
+    "id": "goldenrazzberry",
+    "num": 1015
+  },
+  "silvernanabberry": {
+    "name": "Silver Nanab Berry",
+    "id": "silvernanabberry",
+    "num": 1016
+  },
+  "goldennanabberry": {
+    "name": "Golden Nanab Berry",
+    "id": "goldennanabberry",
+    "num": 1017
+  },
+  "silverpinapberry": {
+    "name": "Silver Pinap Berry",
+    "id": "silverpinapberry",
+    "num": 1018
+  },
+  "goldenpinapberry": {
+    "name": "Golden Pinap Berry",
+    "id": "goldenpinapberry",
+    "num": 1019
+  },
+  "secretkeyletsgo": {
+    "name": "Secret Key  Letsgo",
+    "id": "secretkeyletsgo",
+    "num": 1020
+  },
+  "ssticketletsgo": {
+    "name": "Ss Ticket  Letsgo",
+    "id": "ssticketletsgo",
+    "num": 1021
+  },
+  "parcelletsgo": {
+    "name": "Parcel  Letsgo",
+    "id": "parcelletsgo",
+    "num": 1022
+  },
+  "cardkeyletsgo": {
+    "name": "Card Key  Letsgo",
+    "id": "cardkeyletsgo",
+    "num": 1023
+  },
+  "stretchyspring": {
+    "name": "Stretchy Spring",
+    "id": "stretchyspring",
+    "num": 1024
+  },
+  "chalkystone": {
+    "name": "Chalky Stone",
+    "id": "chalkystone",
+    "num": 1025
+  },
+  "marble": {
+    "name": "Marble",
+    "id": "marble",
+    "num": 1026
+  },
+  "loneearring": {
+    "name": "Lone Earring",
+    "id": "loneearring",
+    "num": 1027
+  },
+  "beachglass": {
+    "name": "Beach Glass",
+    "id": "beachglass",
+    "num": 1028
+  },
+  "goldleaf": {
+    "name": "Gold Leaf",
+    "id": "goldleaf",
+    "num": 1029
+  },
+  "silverleaf": {
+    "name": "Silver Leaf",
+    "id": "silverleaf",
+    "num": 1030
+  },
+  "polishedmudball": {
+    "name": "Polished Mud Ball",
+    "id": "polishedmudball",
+    "num": 1031
+  },
+  "tropicalshell": {
+    "name": "Tropical Shell",
+    "id": "tropicalshell",
+    "num": 1032
+  },
+  "leafletterpikachu": {
+    "name": "Leaf Letter  Pikachu",
+    "id": "leafletterpikachu",
+    "num": 1033
+  },
+  "leaflettereevee": {
+    "name": "Leaf Letter  Eevee",
+    "id": "leaflettereevee",
+    "num": 1034
+  },
+  "smallbouquet": {
+    "name": "Small Bouquet",
+    "id": "smallbouquet",
+    "num": 1035
+  },
+  "lure": {
+    "name": "Lure",
+    "id": "lure",
+    "num": 1036
+  },
+  "superlure": {
+    "name": "Super Lure",
+    "id": "superlure",
+    "num": 1037
+  },
+  "maxlure": {
+    "name": "Max Lure",
+    "id": "maxlure",
+    "num": 1038
+  },
+  "pewtercrunchies": {
+    "name": "Pewter Crunchies",
+    "id": "pewtercrunchies",
+    "num": 1039
+  },
+  "healthcandy": {
+    "name": "Health Candy",
+    "id": "healthcandy",
+    "num": 1040
+  },
+  "mightycandy": {
+    "name": "Mighty Candy",
+    "id": "mightycandy",
+    "num": 1041
+  },
+  "toughcandy": {
+    "name": "Tough Candy",
+    "id": "toughcandy",
+    "num": 1042
+  },
+  "smartcandy": {
+    "name": "Smart Candy",
+    "id": "smartcandy",
+    "num": 1043
+  },
+  "couragecandy": {
+    "name": "Courage Candy",
+    "id": "couragecandy",
+    "num": 1044
+  },
+  "quickcandy": {
+    "name": "Quick Candy",
+    "id": "quickcandy",
+    "num": 1045
+  },
+  "healthcandyl": {
+    "name": "Health Candy L",
+    "id": "healthcandyl",
+    "num": 1046
+  },
+  "mightycandyl": {
+    "name": "Mighty Candy L",
+    "id": "mightycandyl",
+    "num": 1047
+  },
+  "toughcandyl": {
+    "name": "Tough Candy L",
+    "id": "toughcandyl",
+    "num": 1048
+  },
+  "smartcandyl": {
+    "name": "Smart Candy L",
+    "id": "smartcandyl",
+    "num": 1049
+  },
+  "couragecandyl": {
+    "name": "Courage Candy L",
+    "id": "couragecandyl",
+    "num": 1050
+  },
+  "quickcandyl": {
+    "name": "Quick Candy L",
+    "id": "quickcandyl",
+    "num": 1051
+  }
+}
