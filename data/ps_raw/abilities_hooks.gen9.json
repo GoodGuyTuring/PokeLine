@@ -1,0 +1,1389 @@
+{
+  "adaptability": {
+    "id": "adaptability",
+    "hooks": {
+      "onModifySTAB": [
+        {
+          "when": "hasSTAB",
+          "value": 2,
+          "upgradeFrom": 1.5,
+          "teraValue": 2.25
+        }
+      ]
+    }
+  },
+  "aerilate": {
+    "id": "aerilate",
+    "hooks": {
+      "onModifyType": [
+        {
+          "rewriteTypeFrom": "normal",
+          "rewriteTypeTo": "flying",
+          "stabUpgrade": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "afterTypeRewrite:normal->flying",
+          "multiply": 1.199951171875,
+          "tag": "typeRewrite"
+        }
+      ]
+    }
+  },
+  "blaze": {
+    "id": "blaze",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "bulletproof": {
+    "id": "bulletproof",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "blockTags": [
+              "ballistic"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "blockTags": [
+              "ballistic"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "chlorophyll": {
+    "id": "chlorophyll",
+    "hooks": {
+      "onModifySpe": [
+        {
+          "when": "weather:sun",
+          "multiply": 2
+        }
+      ]
+    }
+  },
+  "competitive": {
+    "id": "competitive",
+    "hooks": {
+      "onStatLoweredByFoe": [
+        {
+          "selfBoosts": {
+            "spa": 2
+          }
+        }
+      ]
+    }
+  },
+  "defeatist": {
+    "id": "defeatist",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 0.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 0.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "defiant": {
+    "id": "defiant",
+    "hooks": {
+      "onStatLoweredByFoe": [
+        {
+          "selfBoosts": {
+            "atk": 2
+          }
+        }
+      ]
+    }
+  },
+  "deltastream": {
+    "id": "deltastream",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "deltastream",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ]
+    }
+  },
+  "desolateland": {
+    "id": "desolateland",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "desolateland",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ]
+    }
+  },
+  "dragonsmaw": {
+    "id": "dragonsmaw",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "drizzle": {
+    "id": "drizzle",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "raindance",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ]
+    }
+  },
+  "drought": {
+    "id": "drought",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "sunnyday",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ]
+    }
+  },
+  "dryskin": {
+    "id": "dryskin",
+    "hooks": {
+      "absorb": [
+        {
+          "type": "water",
+          "heal": "fraction",
+          "fraction": "1/4"
+        }
+      ]
+    }
+  },
+  "eartheater": {
+    "id": "eartheater",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "absorb": [
+              "ground"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "absorb": [
+              "ground"
+            ]
+          }
+        }
+      ],
+      "absorb": [
+        {
+          "type": "ground",
+          "heal": "fraction",
+          "fraction": "1/4"
+        }
+      ]
+    }
+  },
+  "effectspore": {
+    "id": "effectspore",
+    "hooks": {
+      "blockTags": [
+        {
+          "tags": [
+            "powder"
+          ]
+        }
+      ]
+    }
+  },
+  "electricsurge": {
+    "id": "electricsurge",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "electricterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ]
+    }
+  },
+  "flashfire": {
+    "id": "flashfire",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "absorb": [
+              "fire"
+            ],
+            "boosts": {
+              "power": {
+                "type": "fire",
+                "multiply": 1.5
+              }
+            }
+          }
+        },
+        {
+          "heuristic": {
+            "absorb": [
+              "fire"
+            ],
+            "boosts": {
+              "power": {
+                "type": "fire",
+                "multiply": 1.5
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "forecast": {
+    "id": "forecast",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "galewings": {
+    "id": "galewings",
+    "hooks": {
+      "onModifyPriority": [
+        {
+          "delta": 1,
+          "when": "always"
+        }
+      ]
+    }
+  },
+  "galvanize": {
+    "id": "galvanize",
+    "hooks": {
+      "onModifyType": [
+        {
+          "rewriteTypeFrom": "normal",
+          "rewriteTypeTo": "electric",
+          "stabUpgrade": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "afterTypeRewrite:normal->electric",
+          "multiply": 1.199951171875,
+          "tag": "typeRewrite"
+        }
+      ]
+    }
+  },
+  "goodasgold": {
+    "id": "goodasgold",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "block": [
+              "statusMoves"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "block": [
+              "statusMoves"
+            ]
+          }
+        }
+      ],
+      "blockMove": [
+        {
+          "when": "statusMoves"
+        }
+      ]
+    }
+  },
+  "gorillatactics": {
+    "id": "gorillatactics",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "grassysurge": {
+    "id": "grassysurge",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "grassyterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ]
+    }
+  },
+  "guts": {
+    "id": "guts",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "hadronengine": {
+    "id": "hadronengine",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "electricterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.333251953125,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "hugepower": {
+    "id": "hugepower",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "icebody": {
+    "id": "icebody",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "iceface": {
+    "id": "iceface",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "intimidate": {
+    "id": "intimidate",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "foeBoost",
+          "boosts": {
+            "atk": -1
+          },
+          "when": "adjacentFoes"
+        }
+      ]
+    }
+  },
+  "ironfist": {
+    "id": "ironfist",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "tag:punch",
+          "multiply": 1.199951171875
+        }
+      ]
+    }
+  },
+  "levitate": {
+    "id": "levitate",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "immunities": [
+              "ground"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "immunities": [
+              "ground"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "lightningrod": {
+    "id": "lightningrod",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "redirect": [
+              "electric"
+            ],
+            "boosts": {
+              "spa": 1
+            }
+          }
+        },
+        {
+          "heuristic": {
+            "redirect": [
+              "electric"
+            ],
+            "boosts": {
+              "spa": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "magicguard": {
+    "id": "magicguard",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "hazards": true,
+          "statusChip": true,
+          "weatherChip": true,
+          "lifeOrb": true
+        }
+      ]
+    }
+  },
+  "megalauncher": {
+    "id": "megalauncher",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "tag:pulse",
+          "multiply": 1.5
+        }
+      ]
+    }
+  },
+  "minus": {
+    "id": "minus",
+    "hooks": {
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "mistysurge": {
+    "id": "mistysurge",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "mistyterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ]
+    }
+  },
+  "moldbreaker": {
+    "id": "moldbreaker",
+    "hooks": {
+      "onModifyMove": [
+        {
+          "set": {
+            "ignoreAbility": true
+          }
+        }
+      ]
+    }
+  },
+  "multiscale": {
+    "id": "multiscale",
+    "hooks": {
+      "onModifyDamage": [
+        {
+          "when": "defenderAtFullHP",
+          "multiply": 0.5
+        }
+      ]
+    }
+  },
+  "myceliummight": {
+    "id": "myceliummight",
+    "hooks": {
+      "onModifyMove": [
+        {
+          "set": {
+            "ignoreAbility": true
+          }
+        }
+      ]
+    }
+  },
+  "normalize": {
+    "id": "normalize",
+    "hooks": {
+      "onModifyType": [
+        {
+          "rewriteTypeTo": "normal",
+          "rewriteAll": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "type:normal",
+          "multiply": 1.199951171875,
+          "tag": "typeRewrite"
+        }
+      ]
+    }
+  },
+  "orichalcumpulse": {
+    "id": "orichalcumpulse",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "sunnyday",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ],
+      "onModifyAtk": [
+        {
+          "multiply": 1.333251953125,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "overcoat": {
+    "id": "overcoat",
+    "hooks": {
+      "blockTags": [
+        {
+          "tags": [
+            "powder"
+          ]
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "overgrow": {
+    "id": "overgrow",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "pixilate": {
+    "id": "pixilate",
+    "hooks": {
+      "onModifyType": [
+        {
+          "rewriteTypeFrom": "normal",
+          "rewriteTypeTo": "fairy",
+          "stabUpgrade": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "afterTypeRewrite:normal->fairy",
+          "multiply": 1.199951171875,
+          "tag": "typeRewrite"
+        }
+      ]
+    }
+  },
+  "plus": {
+    "id": "plus",
+    "hooks": {
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "poisonheal": {
+    "id": "poisonheal",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "hazards": true,
+          "statusChip": true,
+          "weatherChip": true,
+          "lifeOrb": true
+        }
+      ]
+    }
+  },
+  "prankster": {
+    "id": "prankster",
+    "hooks": {
+      "onModifyPriority": [
+        {
+          "delta": 1,
+          "when": "always"
+        }
+      ]
+    }
+  },
+  "primordialsea": {
+    "id": "primordialsea",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "primordialsea",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ]
+    }
+  },
+  "protosynthesis": {
+    "id": "protosynthesis",
+    "hooks": {
+      "protoquark": [
+        {
+          "type": "protosynthesis",
+          "triggers": {
+            "sun": true,
+            "electricTerrain": false,
+            "boosterEnergy": true
+          },
+          "effects": {
+            "speedMult": 1.5,
+            "otherStatMult": 1.3
+          }
+        }
+      ]
+    }
+  },
+  "psychicsurge": {
+    "id": "psychicsurge",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "psychicterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ]
+    }
+  },
+  "purepower": {
+    "id": "purepower",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "quarkdrive": {
+    "id": "quarkdrive",
+    "hooks": {
+      "protoquark": [
+        {
+          "type": "quarkdrive",
+          "triggers": {
+            "sun": false,
+            "electricTerrain": true,
+            "boosterEnergy": true
+          },
+          "effects": {
+            "speedMult": 1.5,
+            "otherStatMult": 1.3
+          }
+        }
+      ]
+    }
+  },
+  "reckless": {
+    "id": "reckless",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "recoilOrCrash",
+          "multiply": 1.199951171875
+        }
+      ]
+    }
+  },
+  "refrigerate": {
+    "id": "refrigerate",
+    "hooks": {
+      "onModifyType": [
+        {
+          "rewriteTypeFrom": "normal",
+          "rewriteTypeTo": "ice",
+          "stabUpgrade": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "afterTypeRewrite:normal->ice",
+          "multiply": 1.199951171875,
+          "tag": "typeRewrite"
+        }
+      ]
+    }
+  },
+  "rockhead": {
+    "id": "rockhead",
+    "hooks": {
+      "negateRecoil": [
+        {
+          "crashToo": true
+        }
+      ]
+    }
+  },
+  "rockypayload": {
+    "id": "rockypayload",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "sandforce": {
+    "id": "sandforce",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "weather:sand:type:rock",
+          "multiply": 1.3
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "sandrush": {
+    "id": "sandrush",
+    "hooks": {
+      "onModifySpe": [
+        {
+          "when": "weather:sand",
+          "multiply": 2
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "sandspit": {
+    "id": "sandspit",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "sandstorm",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "sandstream": {
+    "id": "sandstream",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "sandstorm",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "sandveil": {
+    "id": "sandveil",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "sapsipper": {
+    "id": "sapsipper",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "absorb": [
+              "grass"
+            ],
+            "boosts": {
+              "atk": 1
+            }
+          }
+        },
+        {
+          "heuristic": {
+            "absorb": [
+              "grass"
+            ],
+            "boosts": {
+              "atk": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "seedsower": {
+    "id": "seedsower",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setTerrain",
+          "terrain": "grassyterrain",
+          "durationTurns": 5,
+          "itemExtend": "terrainextender"
+        }
+      ]
+    }
+  },
+  "shadowshield": {
+    "id": "shadowshield",
+    "hooks": {
+      "onModifyDamage": [
+        {
+          "when": "defenderAtFullHP",
+          "multiply": 0.5
+        }
+      ]
+    }
+  },
+  "sharpness": {
+    "id": "sharpness",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "tag:slicing",
+          "multiply": 1.5
+        }
+      ]
+    }
+  },
+  "sheerforce": {
+    "id": "sheerforce",
+    "hooks": {
+      "onModifyMove": [
+        {
+          "stripSecondaries": true
+        }
+      ],
+      "onBasePower": [
+        {
+          "when": "hadSecondariesStrippedOrEligible",
+          "multiply": 1.300048828125,
+          "tag": "sheerforce"
+        }
+      ]
+    }
+  },
+  "slushrush": {
+    "id": "slushrush",
+    "hooks": {
+      "onModifySpe": [
+        {
+          "when": "weather:snow",
+          "multiply": 2
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "snowcloak": {
+    "id": "snowcloak",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "snowwarning": {
+    "id": "snowwarning",
+    "hooks": {
+      "onSwitchIn": [
+        {
+          "action": "setWeather",
+          "weather": "snowscape",
+          "durationTurns": 5,
+          "itemExtend": "icyrock"
+        }
+      ],
+      "ignoreResidualDamage": [
+        {
+          "weatherChip": true
+        }
+      ]
+    }
+  },
+  "solarpower": {
+    "id": "solarpower",
+    "hooks": {
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "soundproof": {
+    "id": "soundproof",
+    "hooks": {
+      "blockTags": [
+        {
+          "tags": [
+            "sound"
+          ]
+        }
+      ]
+    }
+  },
+  "stakeout": {
+    "id": "stakeout",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "steelworker": {
+    "id": "steelworker",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "stormdrain": {
+    "id": "stormdrain",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "redirect": [
+              "water"
+            ],
+            "boosts": {
+              "spa": 1
+            }
+          }
+        },
+        {
+          "heuristic": {
+            "redirect": [
+              "water"
+            ],
+            "boosts": {
+              "spa": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "strongjaw": {
+    "id": "strongjaw",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "tag:bite",
+          "multiply": 1.5
+        }
+      ]
+    }
+  },
+  "surgesurfer": {
+    "id": "surgesurfer",
+    "hooks": {
+      "onModifySpe": [
+        {
+          "when": "weather:rain",
+          "multiply": 2
+        }
+      ]
+    }
+  },
+  "swarm": {
+    "id": "swarm",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "swiftswim": {
+    "id": "swiftswim",
+    "hooks": {
+      "onModifySpe": [
+        {
+          "when": "weather:rain",
+          "multiply": 2
+        }
+      ]
+    }
+  },
+  "technician": {
+    "id": "technician",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "bp<=60",
+          "multiply": 1.5,
+          "tag": "technician"
+        }
+      ]
+    }
+  },
+  "teravolt": {
+    "id": "teravolt",
+    "hooks": {
+      "onModifyMove": [
+        {
+          "set": {
+            "ignoreAbility": true
+          }
+        }
+      ]
+    }
+  },
+  "torrent": {
+    "id": "torrent",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.5,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "toughclaws": {
+    "id": "toughclaws",
+    "hooks": {
+      "onBasePower": [
+        {
+          "when": "tag:contact",
+          "multiply": 1.300048828125
+        }
+      ]
+    }
+  },
+  "transistor": {
+    "id": "transistor",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 1.300048828125,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 1.300048828125,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "triage": {
+    "id": "triage",
+    "hooks": {
+      "onModifyPriority": [
+        {
+          "delta": 3,
+          "when": "always"
+        }
+      ]
+    }
+  },
+  "turboblaze": {
+    "id": "turboblaze",
+    "hooks": {
+      "onModifyMove": [
+        {
+          "set": {
+            "ignoreAbility": true
+          }
+        }
+      ]
+    }
+  },
+  "unaware": {
+    "id": "unaware",
+    "hooks": {
+      "ignoreBoosts": [
+        {
+          "attacker": true,
+          "defender": true
+        }
+      ]
+    }
+  },
+  "voltabsorb": {
+    "id": "voltabsorb",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "absorb": [
+              "electric"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "absorb": [
+              "electric"
+            ]
+          }
+        }
+      ],
+      "absorb": [
+        {
+          "type": "electric",
+          "heal": "fraction",
+          "fraction": "1/4"
+        }
+      ]
+    }
+  },
+  "waterabsorb": {
+    "id": "waterabsorb",
+    "hooks": {
+      "meta": [
+        {
+          "heuristic": {
+            "absorb": [
+              "water"
+            ]
+          }
+        },
+        {
+          "heuristic": {
+            "absorb": [
+              "water"
+            ]
+          }
+        }
+      ],
+      "absorb": [
+        {
+          "type": "water",
+          "heal": "fraction",
+          "fraction": "1/4"
+        }
+      ]
+    }
+  },
+  "waterbubble": {
+    "id": "waterbubble",
+    "hooks": {
+      "onModifyAtk": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ],
+      "onModifySpA": [
+        {
+          "multiply": 2,
+          "when": "conditional_or_always"
+        }
+      ]
+    }
+  },
+  "wonderguard": {
+    "id": "wonderguard",
+    "hooks": {
+      "blockMove": [
+        {
+          "when": "statusMoves"
+        }
+      ]
+    }
+  },
+  "mountaineer": {
+    "id": "mountaineer",
+    "hooks": {
+      "ignoreResidualDamage": [
+        {
+          "hazards": true,
+          "statusChip": true,
+          "weatherChip": true,
+          "lifeOrb": true
+        }
+      ]
+    }
+  }
+}
